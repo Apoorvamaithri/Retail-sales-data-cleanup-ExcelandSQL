@@ -1,0 +1,1201 @@
+"orderid","customerid","product","category","quantity","unitprice","discount","orderdate","shipdate","paymentmethod","notes","netrevenue"
+100363,102,"Cutting Board","Home And Kitchen",5,60.61,0.00,"2024-02-07","2024-06-07","Credit Card",NULL,303.05
+100473,34,"Camping Tent","Sports And Outdoors",1,101.19,0.00,"2023-02-18","2023-02-23","Gift Card",NULL,101.19
+100001,168,"Stapler","Office Supplies",4,34.16,0.00,"2023-07-16","2023-07-23","Paypal",NULL,136.64
+100551,169,"Fishing Rod","Sports And Outdoors",2,114.89,0.00,"2024-05-10","2024-06-10","Bank Transfer",NULL,229.78
+100559,140,"Tablet Stand","Electronics",2,163.01,0.05,"2024-07-24","2024-07-26","Gift Card",NULL,309.72
+100885,64,"Stapler","Office Supplies",1,35.34,0.15,"2024-07-14","2024-07-15","Bank Transfer",NULL,30.04
+100888,326,"Whiteboard","Office Supplies",2,28.69,0.00,"2024-02-09","2024-08-28","Bank Transfer",NULL,57.38
+101002,305,"Sticky Notes","Office Supplies",1,26.14,0.00,"2024-02-21","2024-02-28","Credit Card",NULL,26.14
+101004,358,"Whiteboard","Office Supplies",1,28.69,0.00,"2024-10-09","2024-11-09","Gift Card",NULL,28.69
+101018,347,"Ceramic Mug Set","Home And Kitchen",2,79.47,0.00,"2023-02-13","2023-02-16","Debit Card",NULL,158.94
+101073,311,"Electric Razor","Beauty",1,49.85,0.00,"2024-08-27","2024-08-28","Credit Card",NULL,49.85
+101082,339,"Desk Organizer","Office Supplies",5,26.12,0.15,"2024-03-16","2024-03-24","Credit Card",NULL,111.01
+101150,44,"Wool Sweater","Clothing",1,65.92,0.00,"2024-09-14","2024-09-24","Paypal",NULL,65.92
+100004,249,"Portable Charger","Electronics",5,88.92,0.00,"2024-11-26",NULL,"Gift Card",NULL,444.60
+100562,36,"Notebook Pack","Office Supplies",1,31.32,0.00,"2023-09-26",NULL,"Debit Card",NULL,31.32
+100731,198,"Coffee Maker","Home And Kitchen",1,74.21,0.10,"2024-10-03",NULL,"Bank Transfer",NULL,66.79
+100049,153,"Desk Lamp","Office Supplies",3,26.60,0.00,"2023-12-19",NULL,NULL,NULL,79.80
+100281,224,"USB-C Cable","Electronics",3,138.74,0.00,"2023-02-23","2023-02-28","Gift Card",NULL,416.22
+100282,333,"Smartwatch","Electronics",3,154.67,0.00,"2023-03-18","2023-03-26","Bank Transfer",NULL,464.01
+100283,63,"Baseball Cap","Clothing",2,63.21,0.00,"2023-04-09","2023-05-09","Gift Card",NULL,126.42
+100285,166,"Tennis Racket","Sports And Outdoors",1,76.14,0.20,"2024-03-14","2024-03-20","Gift Card",NULL,60.91
+100286,194,"Toaster","Home And Kitchen",2,87.02,0.00,"2023-04-10","2023-10-13","Debit Card",NULL,174.04
+100287,193,"Tablet Stand","Electronics",5,33.36,0.05,"2024-03-08","2024-09-08","Debit Card",NULL,158.46
+100288,172,"USB-C Cable","Electronics",1,62.99,0.00,"2023-07-21","2023-07-28","Credit Card",NULL,62.99
+100289,117,"Wireless Mouse","Electronics",4,21.19,0.15,"2024-11-12",NULL,"Credit Card",NULL,72.05
+100291,249,"Denim Jacket","Clothing",2,32.39,0.20,"2023-08-07","2023-12-07","Debit Card",NULL,51.82
+100292,23,"Air Fryer","Home And Kitchen",2,61.86,0.00,"2023-12-30","2024-02-01","Paypal",NULL,123.72
+100220,337,"Storage Containers","Home And Kitchen",1,27.92,0.00,"2023-08-24",NULL,"Gift Card",NULL,27.92
+100294,297,"Noise Cancelling Headphones","Electronics",5,225.81,0.00,"2023-07-20","2023-07-25","Gift Card","gift wrap requested",1129.05
+100295,40,"Sleeping Bag","Sports And Outdoors",3,31.50,0.00,"2024-06-13","2024-06-18","Paypal",NULL,94.50
+100296,111,"Calculator","Office Supplies",1,3.89,0.00,"2023-04-12","2023-05-12","Bank Transfer",NULL,3.89
+100298,199,"Printer Paper","Office Supplies",2,9.39,0.00,"2023-03-20","2023-03-21","Bank Transfer",NULL,18.78
+100299,50,"Blender","Home And Kitchen",4,78.05,0.15,"2023-05-21","2023-05-30","Credit Card",NULL,265.37
+100300,277,"Hiking Backpack","Sports And Outdoors",4,11.27,0.20,"2024-06-11","2024-11-13","Credit Card",NULL,36.06
+100302,93,"Wool Sweater","Clothing",4,106.25,0.05,"2024-07-18","2024-07-24","Debit Card",NULL,403.75
+100303,346,"Baseball Cap","Clothing",1,53.05,0.20,"2023-03-21","2023-03-25","Credit Card",NULL,42.44
+100304,171,"Winter Coat","Clothing",2,16.98,0.00,"2023-03-06","2023-10-06","Debit Card",NULL,33.96
+100306,202,"Winter Coat",NULL,1,88.60,0.05,"2024-12-14","2024-12-23","Bank Transfer",NULL,84.17
+100308,5,"Denim Jacket","Clothing",3,57.90,0.05,"2023-01-27","2023-02-02","Debit Card",NULL,165.02
+100309,35,"Winter Coat","Clothing",2,107.17,0.15,"2024-03-10","2024-04-10","Paypal",NULL,182.19
+100310,2,"Air Fryer","Home And Kitchen",5,20.97,0.15,"2024-11-15","2024-11-23","Bank Transfer",NULL,89.12
+100311,286,"Printer Paper","Office Supplies",3,12.32,0.00,"2024-03-28","2024-04-04","Gift Card",NULL,36.96
+100313,257,"Blender","Home And Kitchen",2,19.92,0.00,"2023-04-10","2023-06-10","Paypal",NULL,39.84
+100314,6,"Coffee Maker","Home And Kitchen",2,73.37,0.05,"2024-08-04","2024-12-04","Gift Card",NULL,139.40
+100315,300,"Desk Organizer","Office Supplies",2,33.20,0.00,"2023-02-10","2023-06-10","Paypal",NULL,66.40
+100317,47,"Running Shoes","Clothing",1,98.16,0.00,"2023-12-20","2023-12-21","Paypal",NULL,98.16
+100318,218,"Bicycle Helmet","Sports And Outdoors",1,111.48,0.00,"2024-09-21","2024-09-24","Paypal",NULL,111.48
+100320,173,"Hair Straightener","Beauty",5,24.34,0.10,"2024-04-29","2024-08-05","Gift Card",NULL,109.53
+100321,75,"Nail Polish Set","Beauty",2,37.33,0.00,"2024-03-30","2024-03-31","Gift Card",NULL,74.66
+100323,244,"Yoga Mat","Sports And Outdoors",1,75.16,0.15,"2023-04-08","2023-11-08","Gift Card",NULL,63.89
+100324,146,"Sleeping Bag","Sports And Outdoors",1,198.04,0.00,"2024-03-25","2024-04-04","Paypal",NULL,198.04
+100325,148,"Mechanical Keyboard","Electronics",1,210.02,0.00,"2024-04-14","2024-04-21","Debit Card",NULL,210.02
+100074,111,"Running Shoes","Clothing",1,50.20,0.00,"2023-01-13","2023-01-17","Gift Card",NULL,50.20
+100075,26,"Toaster","Home And Kitchen",4,69.51,0.00,"2024-05-20","2024-05-24","Paypal",NULL,278.04
+100076,279,"Portable Charger","Electronics",5,198.75,0.00,"2024-03-21","2024-03-24","Paypal",NULL,993.75
+100137,338,"Knife Set","Home And Kitchen",2,1313.70,0.00,"2024-09-08","2024-12-08","Debit Card",NULL,2627.40
+100112,81,"Noise Cancelling Headphones","Electronics",2,198.22,0.10,"2024-06-28","2024-07-07","Bank Transfer",NULL,356.80
+100079,94,"Dumbbell Set","Sports And Outdoors",1,185.00,0.00,"2024-03-01","2024-11-01","Paypal",NULL,185.00
+100080,296,"Lipstick Set","Beauty",3,17.20,0.00,"2023-01-29","2023-04-02","Gift Card",NULL,51.60
+100119,244,"Desk Lamp","Office Supplies",1,56.22,0.10,"2024-05-26","2024-05-29","Bank Transfer",NULL,50.60
+100082,357,"Face Moisturizer","Beauty",2,11.43,0.00,"2024-09-18","2024-09-22","Bank Transfer",NULL,22.86
+100326,103,"Running Shoes","Clothing",5,42.23,0.00,"2023-12-22","2023-12-30","Gift Card",NULL,211.15
+100327,198,"Portable Charger","Electronics",1,240.03,0.00,"2023-12-21","2023-12-23","Gift Card",NULL,240.03
+100329,265,"Whiteboard","Office Supplies",3,37.87,0.00,"2023-09-10","2023-10-15","Debit Card",NULL,113.61
+100331,245,"Webcam HD","Electronics",2,34.60,0.20,"2023-11-24",NULL,"Gift Card",NULL,55.36
+100332,94,"Notebook Pack","Office Supplies",1,20.51,0.00,"2024-01-20","2024-01-29","Gift Card",NULL,20.51
+100333,214,"Hair Dryer","Beauty",2,22.15,0.05,"2024-04-20","2024-04-23","Paypal",NULL,42.09
+100334,258,"Stapler","Office Supplies",5,8.20,0.00,"2023-01-02","2023-05-02","Gift Card",NULL,41.00
+100335,134,"Fishing Rod","Sports And Outdoors",1,165.29,0.00,"2024-04-07","2024-06-07","Gift Card",NULL,165.29
+100336,276,"Stapler","Office Supplies",1,35.34,0.20,"2023-05-12","2023-12-13","Bank Transfer",NULL,28.27
+100337,166,"Desk Organizer","Office Supplies",3,17.01,0.00,"2023-06-24","2023-06-30","Bank Transfer",NULL,51.03
+100338,193,"Webcam HD","Electronics",5,218.87,0.00,"2024-04-07","2024-06-07","Credit Card",NULL,1094.35
+100339,52,"Leather Belt","Clothing",2,114.03,0.10,"2023-07-22","2023-07-24","Credit Card",NULL,205.25
+100340,57,"Ceramic Mug Set","Home And Kitchen",2,78.65,0.00,"2024-05-06","2024-06-13","Credit Card",NULL,157.30
+100342,102,"Ceramic Mug Set","Home And Kitchen",3,28.30,0.20,"2023-06-09","2023-09-09","Bank Transfer",NULL,67.92
+100343,235,"Bluetooth Speaker","Electronics",2,144.36,0.00,"2024-07-12","2024-08-12",NULL,NULL,288.72
+100344,78,"Tennis Racket","Sports And Outdoors",4,90.56,0.00,"2024-11-10",NULL,"Gift Card",NULL,362.24
+100345,142,"Cutting Board","Home And Kitchen",1,25.53,0.05,"2023-08-17","2023-08-27","Credit Card",NULL,24.25
+100346,150,"Electric Kettle","Home And Kitchen",2,22.63,0.05,"2023-02-08","2023-09-08","Credit Card",NULL,43.00
+100348,130,"Leather Belt","Clothing",1,48.76,0.15,"2023-10-11","2023-11-17","Debit Card",NULL,41.45
+100350,356,"Air Fryer","Home And Kitchen",2,132.27,0.00,"2023-04-02","2023-08-02","Gift Card",NULL,264.54
+100354,89,"Toaster","Home And Kitchen",1,78.74,0.20,"2024-08-22","2024-08-25","Bank Transfer",NULL,62.99
+100355,281,"Whiteboard","Office Supplies",2,56.75,0.10,"2024-09-09","2024-09-19","Gift Card",NULL,102.15
+100358,6,"Perfume 50ml","Beauty",2,8.13,0.10,"2023-04-25","2023-04-29","Credit Card",NULL,14.63
+100359,95,"Bluetooth Speaker","Electronics",1,71.81,0.00,"2024-03-26","2024-03-30","Debit Card",NULL,71.81
+100360,148,"Camping Tent","Sports And Outdoors",1,37.24,0.10,"2023-04-18","2023-04-28","Debit Card",NULL,33.52
+100361,314,"Leather Belt","Clothing",1,117.81,0.15,"2024-12-14","2024-12-19","Paypal",NULL,100.14
+100362,272,"Air Fryer","Home And Kitchen",3,38.81,0.15,"2023-11-15","2023-11-21","Paypal",NULL,98.97
+100364,84,"Ballpoint Pens","Office Supplies",5,32.87,0.00,"2024-11-15","2024-11-24","Debit Card",NULL,164.35
+100367,34,"Toaster","Home And Kitchen",3,121.81,0.00,"2024-04-04","2024-07-04","Paypal",NULL,365.43
+100368,321,"Hiking Backpack","Sports And Outdoors",1,100.45,0.00,"2024-09-22","2024-09-28","Gift Card",NULL,100.45
+100369,304,"Sneakers","Clothing",2,55.35,0.00,"2023-11-22","2023-11-23","Paypal",NULL,110.70
+100370,251,"Winter Coat","Clothing",1,119.90,0.20,"2024-10-13","2024-10-21","Gift Card",NULL,95.92
+100371,201,"Blender","Home And Kitchen",5,125.83,0.00,"2023-07-15","2023-07-25","Gift Card","gift wrap requested",629.15
+100372,66,"Sneakers","Clothing",4,116.75,0.10,"2023-09-09","2023-12-09","Gift Card",NULL,420.30
+100418,145,"Wool Sweater","Clothing",1,933.50,0.15,"2023-09-22","2023-09-25","Credit Card",NULL,793.48
+100374,134,"Knife Set","Home And Kitchen",5,50.05,0.00,"2024-11-15","2024-11-19","Gift Card",NULL,250.25
+100375,203,"Coffee Maker","Home And Kitchen",1,95.06,0.00,"2024-10-08","2024-11-08","Credit Card",NULL,95.06
+100407,109,"Coffee Maker","Home And Kitchen",2,104.61,0.20,"2024-01-27","2024-03-02","Bank Transfer",NULL,167.38
+100377,204,"Knife Set","Home And Kitchen",3,84.14,0.10,"2023-07-22","2023-07-30","Paypal","gift wrap requested",227.18
+100378,238,"Laptop Stand","Electronics",2,148.21,0.15,"2024-10-17","2024-10-22","Gift Card",NULL,251.96
+100379,111,"Lipstick Set","Beauty",1,77.82,0.20,"2023-07-14",NULL,"Debit Card",NULL,62.26
+100380,12,"Hair Straightener","Beauty",4,40.98,0.00,"2024-07-16","2024-07-21","Gift Card",NULL,163.92
+100381,46,"Dumbbell Set","Sports And Outdoors",3,96.69,0.00,"2023-06-03","2023-07-03","Paypal",NULL,290.07
+100382,307,"Winter Coat","Clothing",2,79.60,0.00,"2023-07-17","2023-07-22","Bank Transfer",NULL,159.20
+100383,259,"Webcam HD","Electronics",4,48.92,0.00,"2023-01-30","2023-06-02","Credit Card",NULL,195.68
+100384,192,"Blender","Home And Kitchen",1,68.85,0.05,"2023-05-02","2023-10-02","Paypal",NULL,65.41
+100385,173,"Toaster","Home And Kitchen",5,147.73,0.20,"2024-10-20","2024-10-24","Debit Card",NULL,590.92
+100386,335,"Cutting Board","Home And Kitchen",5,14.23,0.00,"2024-04-10","2024-10-14","Debit Card",NULL,71.15
+100387,125,"Non-Stick Pan","Home And Kitchen",2,11.42,0.00,"2023-09-16","2023-09-20","Paypal",NULL,22.84
+100388,110,"Storage Containers","Home And Kitchen",1,75.92,0.00,"2024-01-17","2024-01-19","Credit Card",NULL,75.92
+100003,267,"Sticky Notes","Office Supplies",3,17.93,0.00,"2023-03-21","2023-03-26","Debit Card",NULL,53.79
+100005,127,"Ceramic Mug Set","Home And Kitchen",1,96.23,0.00,"2023-02-09","2023-05-09","Debit Card",NULL,96.23
+100006,55,"Printer Paper","Office Supplies",2,38.86,0.05,"2024-04-15",NULL,"Gift Card",NULL,73.83
+100007,98,"Laptop Stand","Electronics",5,184.22,0.15,"2024-05-15","2024-05-24","Paypal",NULL,782.94
+100008,302,"Tennis Racket","Sports And Outdoors",3,63.77,0.00,"2023-04-13","2023-04-17","Paypal",NULL,191.31
+100009,156,"Laptop Stand","Electronics",2,42.84,0.05,"2024-02-03","2024-12-03","Bank Transfer",NULL,81.40
+100010,241,"Cotton T-Shirt","Clothing",5,35.46,0.15,"2024-12-24","2024-12-29","Bank Transfer",NULL,150.71
+100072,125,"Printer Paper",NULL,2,363.20,0.00,"2023-09-26","2023-09-30","Bank Transfer",NULL,726.40
+100185,73,"Denim Jacket","Clothing",2,44.46,0.10,"2023-12-08",NULL,"Bank Transfer",NULL,80.03
+100196,106,"Tennis Racket","Sports And Outdoors",4,159.78,0.15,"2023-11-07",NULL,"Bank Transfer",NULL,543.25
+100239,54,"USB-C Cable","Electronics",5,138.72,0.00,"2023-04-29",NULL,"Bank Transfer",NULL,693.60
+100015,250,"Yoga Mat","Sports And Outdoors",1,127.32,0.00,"2023-08-29",NULL,"Debit Card",NULL,127.32
+100376,123,"Mechanical Keyboard","Electronics",1,20.69,0.00,"2023-03-31",NULL,"Bank Transfer",NULL,20.69
+100017,349,"Non-Stick Pan","Home And Kitchen",5,136.28,0.00,"2024-10-23","2024-10-24","Paypal",NULL,681.40
+100018,345,"Sneakers","Clothing",2,51.91,0.00,"2024-10-15","2024-10-21","Bank Transfer",NULL,103.82
+100437,340,"USB-C Cable","Electronics",1,227.03,0.00,"2023-11-02",NULL,"Bank Transfer",NULL,227.03
+100460,77,"Running Shoes","Clothing",4,21.05,0.00,"2024-05-04",NULL,"Bank Transfer",NULL,84.20
+100173,53,"Sunscreen SPF50",NULL,4,9.85,0.15,"2023-03-05","2023-09-05","Bank Transfer",NULL,33.49
+100148,320,"Storage Containers","Home And Kitchen",2,80.34,0.15,"2023-03-30","2023-06-04","Debit Card",NULL,136.58
+100149,297,"Sneakers","Clothing",5,15.81,0.10,"2024-02-20","2024-02-22","Paypal",NULL,71.15
+100389,209,"Sunscreen SPF50","Beauty",1,23.10,0.00,"2024-09-12","2024-12-12","Credit Card",NULL,23.10
+100390,33,"Rain Jacket","Clothing",3,112.76,0.00,"2024-04-28","2024-07-05","Paypal",NULL,338.28
+100391,325,"Running Shoes","Clothing",5,107.60,0.05,"2023-06-13","2023-06-23","Paypal",NULL,511.10
+100392,161,"USB-C Cable","Electronics",1,57.56,0.00,"2023-03-15","2023-03-20","Credit Card",NULL,57.56
+100416,357,"Portable Charger","Electronics",1,40.13,0.20,"2024-01-06","2024-06-06","Bank Transfer",NULL,32.10
+100394,345,"File Folders","Office Supplies",5,47.80,0.00,"2023-05-02","2023-11-02","Debit Card",NULL,239.00
+100395,11,"File Folders","Office Supplies",3,44.00,0.00,"2023-07-07","2023-11-07","Debit Card",NULL,132.00
+100396,160,"Electric Kettle","Home And Kitchen",1,17.48,0.00,"2023-03-30","2023-09-04","Debit Card",NULL,17.48
+100397,80,"Air Fryer","Home And Kitchen",5,130.36,0.00,"2023-08-08","2023-10-08","Debit Card",NULL,651.80
+100398,153,"Tablet Stand","Electronics",1,227.48,0.00,"2024-06-17","2024-06-22","Gift Card",NULL,227.48
+100424,6,"Wireless Mouse","Electronics",1,217.78,0.00,"2024-02-26","2024-07-03","Bank Transfer","gift wrap requested",217.78
+100400,319,"Rain Jacket","Clothing",5,50.48,0.00,"2024-05-23","2024-05-29","Bank Transfer",NULL,252.40
+100401,281,"Resistance Bands","Sports And Outdoors",1,198.18,0.00,"2024-06-01","2024-07-01","Debit Card",NULL,198.18
+100402,248,"Leather Belt","Clothing",4,113.39,0.00,"2024-09-20","2024-09-25","Debit Card",NULL,453.56
+100403,190,"Noise Cancelling Headphones","Electronics",4,70.39,0.10,"2024-06-20","2024-06-26","Paypal",NULL,253.40
+100404,159,"Denim Jacket","Clothing",1,14.28,0.05,"2024-10-03","2024-12-03","Gift Card",NULL,13.57
+100408,3,"Hiking Backpack","Sports And Outdoors",4,17.70,0.00,"2023-02-22","2023-02-26","Bank Transfer",NULL,70.80
+100409,246,"Bluetooth Speaker","Electronics",2,45.52,0.05,"2024-06-13","2024-06-23","Paypal",NULL,86.49
+100410,59,"Printer Paper","Office Supplies",5,9.04,0.00,"2023-04-08","2023-05-08","Credit Card",NULL,45.20
+100411,301,"Face Moisturizer","Beauty",5,78.21,0.00,"2023-04-11",NULL,"Credit Card",NULL,391.05
+100412,60,"Camping Tent","Sports And Outdoors",3,99.95,0.05,"2024-05-18","2024-05-25","Paypal",NULL,284.86
+100413,269,"Tennis Racket","Sports And Outdoors",2,171.80,0.00,"2024-08-19","2024-08-21","Bank Transfer",NULL,343.60
+100417,8,"Desk Lamp","Office Supplies",2,5.79,0.00,"2024-05-04","2024-09-04","Gift Card",NULL,11.58
+100419,273,"Yoga Pants","Clothing",1,35.03,0.00,"2024-01-07","2024-09-07","Debit Card",NULL,35.03
+100420,129,"Fishing Rod","Sports And Outdoors",2,151.82,0.00,"2023-08-21","2023-08-29","Debit Card",NULL,303.64
+100421,152,"Notebook Pack","Office Supplies",1,40.38,0.00,"2024-07-20","2024-07-29","Paypal",NULL,40.38
+100422,303,"Dumbbell Set","Sports And Outdoors",2,178.41,0.05,"2024-07-01","2024-09-01","Paypal",NULL,338.98
+100423,276,"Knife Set","Home And Kitchen",1,42.15,0.05,"2024-05-01","2024-12-01","Bank Transfer",NULL,40.04
+100028,174,"Hair Straightener","Beauty",1,37.75,0.10,"2023-08-02","2023-09-02","Bank Transfer",NULL,33.98
+100021,304,"Webcam HD","Electronics",2,133.40,0.00,"2024-09-21","2024-09-22","Gift Card",NULL,266.80
+100022,111,"Whiteboard","Office Supplies",4,53.51,0.00,"2024-09-21","2024-09-22","Paypal",NULL,214.04
+100023,148,"Resistance Bands","Sports And Outdoors",5,76.81,0.00,"2024-02-28",NULL,"Credit Card",NULL,384.05
+100024,272,"Cutting Board","Home And Kitchen",3,67.62,0.00,"2024-08-14",NULL,"Debit Card",NULL,202.86
+100025,131,"Leather Belt","Clothing",4,23.20,0.15,"2023-12-16","2023-12-19","Paypal",NULL,78.88
+100026,159,"Electric Razor","Beauty",1,21.62,0.00,"2024-05-24","2024-05-31","Debit Card",NULL,21.62
+100027,260,"Noise Cancelling Headphones","Electronics",2,123.51,0.20,"2023-06-22",NULL,"Bank Transfer",NULL,197.62
+100029,71,"Non-Stick Pan","Home And Kitchen",1,50.00,0.00,"2024-08-10","2024-10-14","Bank Transfer",NULL,50.00
+100030,196,"Fishing Rod","Sports And Outdoors",1,89.55,0.00,"2023-04-14","2023-04-23","Bank Transfer",NULL,89.55
+100031,75,"Ceramic Mug Set","Home And Kitchen",5,48.74,0.00,"2023-06-15","2023-06-19","Paypal",NULL,243.70
+100466,2,"Wool Sweater","Clothing",1,83.45,0.20,"2023-09-29",NULL,"Bank Transfer",NULL,66.76
+100534,345,"Wireless Mouse","Electronics",5,201.73,0.15,"2023-04-28",NULL,"Bank Transfer",NULL,857.35
+100034,224,"Whiteboard","Office Supplies",5,53.89,0.00,"2023-07-12","2023-10-12","Credit Card",NULL,269.45
+100227,97,"Desk Organizer","Office Supplies",4,50.13,0.00,"2023-01-15",NULL,"Bank Transfer",NULL,200.52
+100229,52,"Wireless Mouse","Electronics",1,77.53,0.20,"2023-07-26","2023-07-29","Bank Transfer",NULL,62.02
+100223,31,"Coffee Maker","Home And Kitchen",1,78.82,0.05,"2024-06-12","2024-12-16","Paypal",NULL,74.88
+100224,27,"Sunscreen SPF50","Beauty",2,75.37,0.00,"2024-02-12","2024-10-12","Debit Card",NULL,150.74
+100425,76,"Tennis Racket","Sports And Outdoors",1,112.60,0.10,"2023-07-31","2023-08-08","Bank Transfer",NULL,101.34
+100427,321,"Hair Dryer","Beauty",5,77.16,0.00,"2024-11-15","2024-11-24","Gift Card",NULL,385.80
+100428,54,"Rain Jacket","Clothing",4,19.04,0.15,"2024-07-29","2024-07-30","Credit Card",NULL,64.74
+100429,124,"Fishing Rod","Sports And Outdoors",1,108.56,0.05,"2023-04-09","2023-05-09","Paypal",NULL,103.13
+100430,25,"Hiking Backpack","Sports And Outdoors",1,55.81,0.00,"2023-08-20","2023-08-30","Gift Card",NULL,55.81
+100432,204,"Sleeping Bag","Sports And Outdoors",4,75.16,0.00,"2023-02-21",NULL,"Bank Transfer",NULL,300.64
+100433,356,"Bluetooth Speaker","Electronics",2,190.39,0.00,"2023-01-02","2023-03-02","Gift Card",NULL,380.78
+100434,74,"Hiking Backpack","Sports And Outdoors",1,196.94,0.00,"2023-10-22","2023-10-30","Bank Transfer",NULL,196.94
+100435,9,"Nail Polish Set","Beauty",4,79.39,0.00,"2023-06-24",NULL,"Paypal",NULL,317.56
+100438,352,"Air Fryer","Home And Kitchen",1,122.63,0.00,"2023-10-10","2023-10-16",NULL,NULL,122.63
+100439,314,"Cotton T-Shirt","Clothing",2,15.27,0.15,"2023-04-04","2023-08-04","Credit Card",NULL,25.96
+100445,170,"Tablet Stand","Electronics",2,177.57,0.00,"2023-02-26","2023-05-03","Bank Transfer",NULL,355.14
+100449,102,"Dumbbell Set","Sports And Outdoors",3,120.58,0.10,"2024-04-04","2024-07-04","Gift Card",NULL,325.57
+100447,278,"Coffee Maker","Home And Kitchen",4,129.05,0.00,"2023-11-18","2023-11-28","Bank Transfer",NULL,516.20
+100468,360,"Tennis Racket","Sports And Outdoors",1,107.46,0.00,"2024-11-20","2024-11-22","Bank Transfer",NULL,107.46
+100452,122,"Non-Stick Pan","Home And Kitchen",3,121.50,0.00,"2024-06-07","2024-10-07","Bank Transfer",NULL,364.50
+100453,36,"Hiking Backpack","Sports And Outdoors",1,163.02,0.00,"2023-03-30","2023-06-04","Debit Card",NULL,163.02
+100494,352,"USB-C Cable","Electronics",1,92.21,0.00,"2024-04-06","2024-06-14","Bank Transfer",NULL,92.21
+100457,97,"Ceramic Mug Set","Home And Kitchen",5,133.44,0.10,"2024-08-26","2024-08-30","Paypal",NULL,600.48
+100458,48,"USB-C Cable","Electronics",1,166.08,0.00,"2023-03-10","2023-04-10","Bank Transfer",NULL,166.08
+100459,72,"Bluetooth Speaker","Electronics",4,157.37,0.00,"2024-01-28","2024-07-02","Credit Card",NULL,629.48
+100461,184,"Dumbbell Set","Sports And Outdoors",1,112.53,0.00,"2023-11-21","2023-11-23","Credit Card",NULL,112.53
+100464,237,"Lipstick Set","Beauty",2,29.91,0.00,"2024-02-26","2024-02-29","Credit Card",NULL,59.82
+100465,202,"Desk Organizer","Office Supplies",1,6.58,0.15,"2023-04-30",NULL,"Paypal",NULL,5.59
+100469,243,"Yoga Pants","Clothing",1,83.32,0.05,"2023-10-19","2023-10-20","Bank Transfer",NULL,79.15
+100470,91,"Stapler",NULL,3,41.10,0.05,"2024-01-02","2024-06-02","Gift Card","gift wrap requested",117.14
+100472,209,"Laptop Stand",NULL,2,65.14,0.10,"2023-02-15","2023-02-24","Credit Card",NULL,117.25
+100474,47,"Leather Belt","Clothing",1,74.72,0.00,"2024-08-22","2024-08-24","Gift Card",NULL,74.72
+100475,29,"Whiteboard","Office Supplies",2,2.45,0.05,"2024-12-25","2024-12-27","Debit Card",NULL,4.66
+100476,217,"Yoga Pants","Clothing",5,93.19,0.15,"2024-12-25","2024-12-27","Debit Card",NULL,396.06
+100477,90,"Blender","Home And Kitchen",5,33.71,0.15,"2024-06-12","2024-12-15","Paypal",NULL,143.27
+100035,187,"Camping Tent","Sports And Outdoors",5,191.03,0.00,"2024-01-31","2024-06-02","Gift Card",NULL,955.15
+100036,252,"Non-Stick Pan","Home And Kitchen",5,27.27,0.05,"2023-05-27","2023-06-06","Paypal",NULL,129.53
+100037,284,"Dumbbell Set","Sports And Outdoors",1,98.81,0.00,"2023-03-17",NULL,"Gift Card",NULL,98.81
+100038,41,"Wool Sweater","Clothing",2,79.86,0.00,"2024-07-18","2024-07-21","Debit Card",NULL,159.72
+100039,161,"Electric Razor","Beauty",3,60.06,0.20,"2024-07-18","2024-07-23","Credit Card",NULL,144.14
+100040,25,"Noise Cancelling Headphones","Electronics",1,131.30,0.10,"2023-12-20","2023-12-27","Paypal",NULL,118.17
+100543,304,"Dumbbell Set","Sports And Outdoors",1,132.56,0.15,"2024-10-31",NULL,"Bank Transfer",NULL,112.68
+100042,76,"Lipstick Set","Beauty",5,7.37,0.00,"2024-06-15","2024-06-23","Bank Transfer",NULL,36.85
+100043,354,"Nail Polish Set","Beauty",2,28.78,0.00,"2024-12-18","2024-12-20","Gift Card",NULL,57.56
+100044,242,"USB-C Cable","Electronics",5,16.22,0.00,"2023-12-24","2024-02-01","Paypal",NULL,81.10
+100045,69,"Sleeping Bag","Sports And Outdoors",5,61.84,0.00,"2024-07-17","2024-07-20","Paypal",NULL,309.20
+100046,197,"Storage Containers","Home And Kitchen",1,115.03,0.05,"2023-04-26",NULL,"Credit Card",NULL,109.28
+100047,127,"Hair Straightener","Beauty",3,70.49,0.00,"2023-04-12","2023-09-12",NULL,NULL,211.47
+100048,112,"Water Bottle","Sports And Outdoors",1,18.61,0.00,"2023-03-25",NULL,"Paypal",NULL,18.61
+100050,267,"Cutting Board","Home And Kitchen",1,50.67,0.10,"2023-12-19",NULL,"Paypal",NULL,45.60
+100297,215,"Toaster",NULL,4,125.55,0.10,"2023-07-20","2023-07-29","Paypal",NULL,451.98
+100478,41,"Toaster","Home And Kitchen",1,92.56,0.15,"2024-05-31","2024-10-06","Paypal",NULL,78.68
+100479,66,"Mechanical Keyboard","Electronics",2,178.26,0.05,"2023-04-07","2023-08-07","Credit Card",NULL,338.69
+100480,276,"Sleeping Bag","Sports And Outdoors",4,139.61,0.00,"2024-08-12","2024-12-17","Debit Card",NULL,558.44
+100481,280,"Camping Tent","Sports And Outdoors",2,60.69,0.20,"2024-07-13","2024-08-07","Credit Card",NULL,97.10
+100482,334,"Electric Razor","Beauty",5,23.07,0.15,"2024-02-22","2024-02-23","Gift Card",NULL,98.05
+100483,130,"Blender","Home And Kitchen",5,26.77,0.00,"2024-08-31","2024-09-09","Debit Card",NULL,133.85
+100484,195,"Wireless Mouse","Electronics",5,228.86,0.10,"2023-11-18","2023-11-19","Paypal",NULL,1029.87
+100485,2,"Ceramic Mug Set","Home And Kitchen",3,72.90,0.00,"2023-01-26","2023-05-02","Paypal",NULL,218.70
+100486,268,"Yoga Mat","Sports And Outdoors",2,79.78,0.00,"2023-12-15","2023-12-24","Bank Transfer",NULL,159.56
+100488,345,"Facial Cleanser","Beauty",4,15.85,0.10,"2024-02-01","2024-10-01","Debit Card",NULL,57.06
+100491,248,"Denim Jacket","Clothing",3,106.50,0.00,"2023-08-23","2023-08-29","Gift Card",NULL,319.50
+100492,351,"Non-Stick Pan","Home And Kitchen",3,74.49,0.00,"2024-02-09","2024-04-09","Debit Card",NULL,223.47
+100497,245,"Cotton T-Shirt","Clothing",1,95.61,0.00,"2023-01-23","2023-01-25","Paypal",NULL,95.61
+100499,316,"Noise Cancelling Headphones","Electronics",5,225.65,0.05,"2024-08-14","2024-08-17","Debit Card",NULL,1071.84
+100500,13,"Hair Straightener","Beauty",3,14.46,0.15,"2023-05-20",NULL,"Debit Card",NULL,36.87
+100503,22,"Electric Kettle","Home And Kitchen",4,21.28,0.20,"2024-01-04","2024-09-04","Bank Transfer",NULL,68.10
+100505,226,"File Folders","Office Supplies",2,58.82,0.00,"2024-10-10","2024-10-20","Paypal",NULL,117.64
+100506,336,"Dumbbell Set","Sports And Outdoors",1,60.65,0.15,"2023-10-19","2023-10-21","Bank Transfer",NULL,51.55
+100507,18,"Lipstick Set","Beauty",5,10.82,0.15,"2023-05-09","2023-09-13","Gift Card",NULL,45.99
+100508,107,"Running Shoes","Clothing",1,18.70,0.10,"2023-08-15","2023-08-20","Bank Transfer",NULL,16.83
+100509,27,"Hair Dryer","Beauty",1,53.80,0.00,"2023-09-12","2023-12-17","Paypal",NULL,53.80
+100510,337,"Running Shoes","Clothing",5,57.62,0.10,"2023-09-12","2023-12-17","Bank Transfer",NULL,259.29
+100512,14,"Camping Tent","Sports And Outdoors",3,119.37,0.00,"2024-07-12","2024-12-15","Debit Card",NULL,358.11
+100513,236,"Mechanical Keyboard","Electronics",1,59.05,0.00,"2023-01-04","2023-06-04","Credit Card",NULL,59.05
+100442,203,"Winter Coat","Clothing",1,14.73,0.00,"2024-12-03",NULL,"Gift Card",NULL,14.73
+100443,120,"Sticky Notes","Office Supplies",1,52.73,0.20,"2023-09-28",NULL,"Paypal",NULL,42.18
+100516,90,"Face Moisturizer","Beauty",3,32.62,0.00,"2024-02-12","2024-07-12","Credit Card",NULL,97.86
+100517,221,"Bicycle Helmet","Sports And Outdoors",5,97.92,0.00,"2023-04-06","2023-06-06","Debit Card",NULL,489.60
+100518,263,"Hair Straightener","Beauty",1,52.77,0.15,"2024-12-24","2024-12-30","Paypal",NULL,44.85
+100519,223,"File Folders",NULL,2,19.27,0.00,"2023-12-18","2023-12-23","Paypal",NULL,38.54
+100520,226,"Bluetooth Speaker","Electronics",4,222.44,0.00,"2024-08-20","2024-08-24","Gift Card",NULL,889.76
+100521,135,"Wool Sweater","Clothing",2,43.81,0.05,"2024-01-06","2024-09-06","Debit Card",NULL,83.24
+100522,268,"Resistance Bands","Sports And Outdoors",5,28.95,0.00,"2024-05-11","2024-06-11","Credit Card",NULL,144.75
+100523,15,"Coffee Maker",NULL,5,23.14,0.00,"2024-08-10","2024-10-16","Bank Transfer",NULL,115.70
+100524,190,"Laptop Stand","Electronics",1,84.71,0.20,"2024-09-13","2024-09-21","Debit Card",NULL,67.77
+100526,118,"Laptop Stand","Electronics",1,61.36,0.15,"2023-06-10","2023-10-13","Credit Card",NULL,52.16
+100527,119,"Hair Straightener","Beauty",1,46.71,0.20,"2024-03-14","2024-03-19","Debit Card",NULL,37.37
+100051,98,"Noise Cancelling Headphones","Electronics",1,103.63,0.10,"2024-01-24","2024-01-28","Gift Card",NULL,93.27
+100549,227,"Perfume 50ml","Beauty",1,75.01,0.15,"2023-10-06",NULL,"Bank Transfer",NULL,63.76
+100590,59,"Hiking Backpack","Sports And Outdoors",1,197.97,0.00,"2023-10-06",NULL,"Bank Transfer",NULL,197.97
+100054,50,"Camping Tent","Sports And Outdoors",3,55.78,0.00,"2023-02-16","2023-02-26","Gift Card",NULL,167.34
+100055,139,"Bluetooth Speaker","Electronics",1,175.84,0.15,"2024-07-10","2024-11-10","Bank Transfer",NULL,149.46
+100629,206,"Yoga Pants","Clothing",3,13.11,0.00,"2023-10-02",NULL,"Bank Transfer",NULL,39.33
+100057,167,"Notebook Pack","Office Supplies",2,18.93,0.05,"2023-10-15","2023-10-24","Debit Card",NULL,35.97
+100058,334,"Camping Tent","Sports And Outdoors",1,67.08,0.00,"2024-01-20","2024-01-27","Gift Card","gift wrap requested",67.08
+100059,307,"Calculator","Office Supplies",3,25.25,0.00,"2024-02-02","2024-04-02","Credit Card",NULL,75.75
+100060,13,"Ballpoint Pens","Office Supplies",1,19.14,0.00,"2024-09-09","2024-09-13","Paypal",NULL,19.14
+100528,165,"Baseball Cap","Clothing",1,21.65,0.00,"2024-03-08",NULL,"Debit Card",NULL,21.65
+100529,25,"Mechanical Keyboard","Electronics",3,122.60,0.00,"2023-06-07","2023-10-07","Credit Card",NULL,367.80
+100530,57,"Ballpoint Pens","Office Supplies",2,12.01,0.05,"2024-03-04","2024-04-13","Credit Card",NULL,22.82
+100531,170,"Noise Cancelling Headphones","Electronics",4,124.19,0.20,"2024-02-08","2024-08-08","Paypal",NULL,397.41
+100532,43,"Toaster","Home And Kitchen",1,27.00,0.00,"2023-09-21","2023-09-23","Gift Card",NULL,27.00
+100565,294,"Bicycle Helmet","Sports And Outdoors",1,705.30,0.10,"2023-12-28","2024-01-01","Debit Card",NULL,634.77
+100535,75,"Non-Stick Pan","Home And Kitchen",1,35.45,0.20,"2023-07-07","2023-11-07","Credit Card",NULL,28.36
+100538,39,"Knife Set","Home And Kitchen",1,102.26,0.00,"2023-09-22","2023-09-30","Debit Card",NULL,102.26
+100544,248,"Leather Belt","Clothing",3,115.02,0.10,"2024-05-07","2024-06-07","Debit Card",NULL,310.55
+100545,191,"Hiking Backpack","Sports And Outdoors",2,124.15,0.10,"2023-01-07","2023-11-07","Debit Card",NULL,223.47
+100546,346,"Winter Coat","Clothing",1,45.72,0.00,"2023-01-18",NULL,"Gift Card",NULL,45.72
+100547,188,"Lipstick Set","Beauty",2,31.75,0.20,"2024-05-12","2024-08-12","Paypal",NULL,50.80
+100548,260,"Camping Tent","Sports And Outdoors",1,164.30,0.00,"2024-07-23",NULL,"Bank Transfer",NULL,164.30
+100552,141,"Sneakers","Clothing",1,11.25,0.00,"2023-06-11","2023-08-11","Paypal",NULL,11.25
+100553,273,"Toaster","Home And Kitchen",3,147.84,0.10,"2023-09-16","2023-09-22","Bank Transfer",NULL,399.17
+100554,307,"Calculator","Office Supplies",1,16.23,0.00,"2023-01-18","2023-01-24","Gift Card",NULL,16.23
+100556,5,"Running Shoes","Clothing",1,63.53,0.00,"2023-01-12","2023-04-12","Credit Card",NULL,63.53
+100557,169,"Sleeping Bag","Sports And Outdoors",2,35.80,0.15,"2023-05-07","2023-07-15","Credit Card",NULL,60.86
+100558,129,"Laptop Stand","Electronics",1,183.60,0.00,"2023-05-25","2023-05-30","Gift Card",NULL,183.60
+100561,161,"Wireless Mouse","Electronics",1,37.51,0.00,"2024-10-06",NULL,"Credit Card",NULL,37.51
+100563,241,"Ballpoint Pens","Office Supplies",1,39.79,0.00,"2023-01-24","2023-03-02","Paypal",NULL,39.79
+100564,195,"Wireless Mouse","Electronics",1,132.55,0.00,"2023-11-11","2023-11-14","Bank Transfer",NULL,132.55
+100567,61,"Laptop Stand","Electronics",1,238.98,0.10,"2023-02-08","2023-09-08","Paypal",NULL,215.08
+100568,140,"File Folders","Office Supplies",1,27.61,0.00,"2024-05-17","2024-05-19","Bank Transfer",NULL,27.61
+100569,114,"Yoga Pants","Clothing",1,11.91,0.00,"2024-11-09","2024-12-09","Credit Card",NULL,11.91
+100570,16,"USB-C Cable","Electronics",4,62.12,0.00,"2023-05-10","2023-11-10","Paypal",NULL,248.48
+100571,113,"Hair Dryer","Beauty",3,33.71,0.05,"2023-04-13","2023-04-15","Gift Card",NULL,96.07
+100572,67,"Denim Jacket","Clothing",4,115.20,0.20,"2023-07-09","2023-10-09","Paypal",NULL,368.64
+100573,194,"Camping Tent","Sports And Outdoors",4,190.02,0.00,"2023-10-11","2023-11-14","Paypal",NULL,760.08
+100574,258,"Non-Stick Pan","Home And Kitchen",1,83.01,0.00,"2024-09-09","2024-09-14","Credit Card","gift wrap requested",83.01
+100575,104,"Ceramic Mug Set","Home And Kitchen",1,149.93,0.20,"2023-03-10","2023-08-10","Debit Card",NULL,119.94
+100576,187,"Bluetooth Speaker","Electronics",1,33.10,0.20,"2024-03-18","2024-03-21","Bank Transfer",NULL,26.48
+100577,80,"Air Fryer","Home And Kitchen",5,104.11,0.20,"2023-05-04","2023-12-04","Debit Card",NULL,416.44
+100578,63,"Calculator","Office Supplies",4,4.21,0.00,"2023-03-26","2023-03-28","Gift Card",NULL,16.84
+100579,333,"Resistance Bands","Sports And Outdoors",1,179.63,0.00,"2023-02-24","2023-02-26","Paypal",NULL,179.63
+100580,159,"Water Bottle","Sports And Outdoors",2,27.76,0.00,"2023-10-29","2023-10-31","Bank Transfer",NULL,55.52
+100582,329,"Storage Containers","Home And Kitchen",3,102.37,0.00,"2023-01-26","2023-01-28","Gift Card",NULL,307.11
+100584,269,"Camping Tent","Sports And Outdoors",3,100.11,0.10,"2023-04-06","2023-06-06","Paypal",NULL,270.30
+100586,292,"Yoga Mat","Sports And Outdoors",2,28.17,0.20,"2023-07-26","2023-07-28","Credit Card",NULL,45.07
+100587,226,"Toaster","Home And Kitchen",1,47.57,0.05,"2024-03-24","2024-03-30","Gift Card",NULL,45.19
+100515,126,"Bluetooth Speaker","Electronics",5,139.92,0.05,"2023-10-03",NULL,"Paypal",NULL,664.62
+100525,332,"Nail Polish Set","Beauty",2,37.86,0.10,"2024-12-30",NULL,"Debit Card",NULL,68.15
+100589,96,"Smartwatch","Electronics",2,197.51,0.00,"2024-01-29",NULL,"Debit Card",NULL,395.02
+100592,66,"Stapler","Office Supplies",4,29.46,0.00,"2024-06-01","2024-11-01","Bank Transfer",NULL,117.84
+100593,54,"Wool Sweater","Clothing",5,83.28,0.00,"2023-04-03","2023-08-03","Gift Card",NULL,416.40
+100594,121,"Toaster","Home And Kitchen",3,91.72,0.05,"2023-11-03",NULL,"Gift Card",NULL,261.40
+100595,327,"Leather Belt","Clothing",1,18.82,0.10,"2024-08-14","2024-08-21","Bank Transfer",NULL,16.94
+100596,202,"Storage Containers","Home And Kitchen",1,13.65,0.05,"2023-04-19","2023-04-21","Credit Card",NULL,12.97
+100061,315,"Storage Containers","Home And Kitchen",2,92.09,0.00,"2024-02-06","2024-09-06","Credit Card",NULL,184.18
+100062,61,"Blender","Home And Kitchen",4,24.61,0.00,"2023-03-29","2023-03-31",NULL,NULL,98.44
+100063,113,"Cotton T-Shirt","Clothing",5,40.23,0.00,"2024-03-02","2024-04-02","Bank Transfer",NULL,201.15
+100064,324,"Desk Organizer","Office Supplies",3,37.74,0.05,"2024-01-18",NULL,"Paypal",NULL,107.56
+100065,207,"Resistance Bands","Sports And Outdoors",3,141.99,0.15,"2024-04-07","2024-09-07","Paypal",NULL,362.07
+100724,159,"Rain Jacket","Clothing",1,28.50,0.00,"2023-05-25",NULL,"Bank Transfer",NULL,28.50
+100067,217,"Sunscreen SPF50","Beauty",1,40.83,0.00,"2024-01-13","2024-01-21","Gift Card",NULL,40.83
+100732,25,"Cutting Board","Home And Kitchen",4,54.51,0.15,"2023-12-10",NULL,"Bank Transfer",NULL,185.33
+100863,53,"Fishing Rod","Sports And Outdoors",2,55.81,0.00,"2023-10-03",NULL,"Bank Transfer",NULL,111.62
+100070,337,"Sunscreen SPF50","Beauty",1,13.96,0.10,"2023-08-23","2023-08-30","Paypal",NULL,12.56
+100071,60,"Electric Kettle","Home And Kitchen",3,8.36,0.10,"2024-08-12","2024-09-12","Gift Card",NULL,22.57
+100073,202,"Tablet Stand","Electronics",2,148.44,0.20,"2024-12-25","2024-12-28","Paypal",NULL,237.50
+100002,38,"File Folders","Office Supplies",4,53.40,0.00,"2024-12-08",NULL,"Gift Card",NULL,213.60
+101141,241,"Electric Kettle","Home And Kitchen",3,96.75,0.00,"2023-10-27",NULL,"Bank Transfer",NULL,290.25
+100083,204,"Dumbbell Set","Sports And Outdoors",1,172.76,0.00,"2023-03-17","2023-03-18","Credit Card",NULL,172.76
+100084,170,"Lipstick Set","Beauty",1,8.70,0.00,"2024-05-01","2024-06-01","Gift Card",NULL,8.70
+100085,292,"USB-C Cable","Electronics",5,60.30,0.15,"2023-12-19","2023-12-28","Paypal",NULL,256.28
+100440,307,"Baseball Cap","Clothing",4,27.85,0.20,"2024-10-14","2024-10-22",NULL,NULL,89.12
+100441,104,"Baseball Cap","Clothing",2,21.96,0.00,"2023-01-28",NULL,"Credit Card",NULL,43.92
+100444,323,"Leather Belt","Clothing",3,84.13,0.00,"2024-08-19","2024-08-22","Paypal",NULL,252.39
+100446,315,"Webcam HD","Electronics",1,131.30,0.00,"2024-02-08","2024-12-08","Gift Card",NULL,131.30
+100598,317,"Rain Jacket","Clothing",2,88.38,0.20,"2024-03-30",NULL,"Credit Card",NULL,141.41
+100599,45,"Calculator","Office Supplies",1,37.70,0.05,"2024-03-16","2024-03-23","Gift Card",NULL,35.82
+100600,22,"Yoga Pants","Clothing",2,29.03,0.10,"2023-03-11","2023-07-11","Paypal",NULL,52.25
+100601,114,"Desk Lamp","Office Supplies",5,57.46,0.10,"2023-10-18","2023-10-24","Gift Card",NULL,258.57
+100602,265,"Leather Belt","Clothing",2,14.51,0.00,"2024-09-18","2024-09-28","Paypal",NULL,29.02
+100603,9,"Sleeping Bag","Sports And Outdoors",3,106.54,0.15,"2023-04-06","2023-06-13","Gift Card",NULL,271.68
+100606,263,"Hair Dryer","Beauty",1,54.40,0.00,"2024-08-22","2024-08-29","Bank Transfer",NULL,54.40
+100608,304,"Face Moisturizer","Beauty",5,58.94,0.00,"2023-08-02",NULL,"Bank Transfer",NULL,294.70
+100609,152,"Sunscreen SPF50","Beauty",1,27.37,0.00,"2024-03-21","2024-03-26","Gift Card",NULL,27.37
+100610,226,"Rain Jacket","Clothing",2,84.76,0.20,"2023-07-13","2023-07-16","Credit Card",NULL,135.62
+100612,231,"Camping Tent","Sports And Outdoors",2,80.71,0.00,"2024-06-19","2024-06-24","Bank Transfer",NULL,161.42
+100614,318,"Desk Organizer","Office Supplies",1,55.09,0.00,"2024-03-06","2024-10-06","Debit Card",NULL,55.09
+100615,317,"Baseball Cap","Clothing",2,20.66,0.00,"2023-11-07","2023-12-07","Debit Card",NULL,41.32
+100616,282,"Yoga Mat","Sports And Outdoors",4,158.15,0.00,"2023-03-31","2023-04-04","Credit Card",NULL,632.60
+100617,1,"Leather Belt","Clothing",5,69.91,0.00,"2023-09-09","2023-10-09","Paypal",NULL,349.55
+100618,302,"File Folders","Office Supplies",4,46.60,0.00,"2023-02-19","2023-02-23","Gift Card",NULL,186.40
+100620,124,"Non-Stick Pan","Home And Kitchen",5,23.82,0.00,"2024-04-11","2024-10-11","Credit Card",NULL,119.10
+100621,199,"Desk Organizer","Office Supplies",4,52.62,0.05,"2023-06-09","2023-09-13","Gift Card",NULL,199.96
+100622,220,"Cotton T-Shirt","Clothing",1,78.62,0.00,"2023-09-20","2023-09-23","Debit Card",NULL,78.62
+100623,253,"Leather Belt","Clothing",1,38.36,0.00,"2024-03-20","2024-03-21","Paypal",NULL,38.36
+100624,210,"Portable Charger",NULL,5,212.48,0.00,"2023-04-11","2023-10-30","Gift Card",NULL,1062.40
+100625,108,"Toaster","Home And Kitchen",4,54.35,0.20,"2024-05-08","2024-08-14","Credit Card",NULL,173.92
+100626,203,"Yoga Mat","Sports And Outdoors",2,81.11,0.05,"2023-02-23","2023-03-03","Credit Card",NULL,154.11
+100627,123,"Cutting Board","Home And Kitchen",1,140.74,0.00,"2024-05-20","2024-05-27","Debit Card",NULL,140.74
+100628,165,"Smartwatch","Electronics",4,213.04,0.00,"2023-03-22","2023-03-24","Bank Transfer",NULL,852.16
+100632,154,"Knife Set","Home And Kitchen",1,56.42,0.20,"2024-02-11","2024-09-11","Debit Card",NULL,45.14
+100633,190,"Stapler","Office Supplies",2,29.12,0.20,"2023-04-07","2023-08-07","Gift Card",NULL,46.59
+100086,138,"Perfume 50ml","Beauty",1,43.50,0.00,"2024-06-16","2024-06-24","Paypal",NULL,43.50
+100087,134,"Hair Dryer","Beauty",4,19.13,0.05,"2024-01-05","2024-06-05","Gift Card",NULL,72.69
+100088,172,"Face Moisturizer","Beauty",3,21.67,0.00,"2023-07-25","2023-07-26","Gift Card",NULL,65.01
+100089,141,"Knife Set","Home And Kitchen",1,89.83,0.15,"2024-11-29","2024-11-30","Gift Card",NULL,76.36
+100090,173,"Desk Organizer","Office Supplies",1,21.88,0.00,"2024-06-13","2024-06-17","Debit Card",NULL,21.88
+100091,5,"Baseball Cap","Clothing",1,82.78,0.05,"2023-08-17",NULL,"Bank Transfer",NULL,78.64
+100132,51,"Yoga Pants","Clothing",5,105.35,0.10,"2023-12-31","2024-03-01","Bank Transfer",NULL,474.08
+100093,245,"Desk Organizer","Office Supplies",1,8.56,0.00,"2024-05-16","2024-05-22","Gift Card",NULL,8.56
+100094,348,"Tennis Racket","Sports And Outdoors",1,147.52,0.00,"2024-09-11","2024-11-18","Gift Card",NULL,147.52
+100095,255,"Shampoo 500ml","Beauty",1,12.70,0.20,"2023-04-14","2023-04-19","Paypal",NULL,10.16
+100096,210,"Noise Cancelling Headphones","Electronics",4,158.55,0.00,"2024-12-13","2024-12-14","Credit Card",NULL,634.20
+100097,337,"Tennis Racket","Sports And Outdoors",2,177.71,0.15,"2023-08-18","2023-08-24","Debit Card",NULL,302.11
+100098,274,"Baseball Cap","Clothing",1,98.91,0.00,"2024-02-27","2024-02-28","Paypal",NULL,98.91
+100514,354,"Knife Set","Home And Kitchen",2,143.22,0.00,"2023-10-12","2023-11-12","Bank Transfer",NULL,286.44
+100635,302,"Sleeping Bag","Sports And Outdoors",2,187.26,0.00,"2023-07-10","2023-10-17","Credit Card",NULL,374.52
+100636,312,"Denim Jacket","Clothing",1,33.39,0.00,"2023-11-14","2023-11-23","Gift Card",NULL,33.39
+100637,354,"Stapler","Office Supplies",2,59.30,0.00,"2024-03-28","2024-07-04","Bank Transfer",NULL,118.60
+100638,289,"Nail Polish Set","Beauty",5,54.87,0.15,"2024-04-24","2024-04-25","Credit Card",NULL,233.20
+100639,185,"Facial Cleanser","Beauty",4,33.26,0.00,"2024-04-16","2024-04-23","Credit Card",NULL,133.04
+100640,121,"Storage Containers","Home And Kitchen",1,110.94,0.00,"2024-07-12","2024-12-13","Bank Transfer",NULL,110.94
+100642,342,"Yoga Mat","Sports And Outdoors",1,130.09,0.00,"2024-02-19","2024-02-23","Gift Card",NULL,130.09
+100643,262,"Perfume 50ml","Beauty",2,54.60,0.15,"2024-08-11","2024-12-11","Gift Card",NULL,92.82
+100644,330,"Mechanical Keyboard","Electronics",2,127.43,0.00,"2024-04-17","2024-04-26","Debit Card",NULL,254.86
+100647,324,"Dumbbell Set","Sports And Outdoors",5,113.51,0.20,"2023-06-01","2023-09-01","Gift Card",NULL,454.04
+100649,40,"USB-C Cable","Electronics",1,249.38,0.00,"2023-01-15","2023-01-25","Debit Card",NULL,249.38
+100652,33,"Ceramic Mug Set","Home And Kitchen",5,49.11,0.00,"2023-08-14","2023-08-22","Debit Card",NULL,245.55
+100653,24,"Bicycle Helmet","Sports And Outdoors",3,129.86,0.00,"2023-04-08","2023-12-08","Bank Transfer",NULL,389.58
+100654,168,"Knife Set","Home And Kitchen",1,48.94,0.05,"2023-08-12","2023-10-12","Paypal",NULL,46.49
+100655,15,"Tablet Stand","Electronics",2,193.01,0.00,"2024-09-14","2024-09-22","Debit Card",NULL,386.02
+100656,136,"Fishing Rod","Sports And Outdoors",1,91.71,0.20,"2024-09-09","2024-09-13","Gift Card",NULL,73.37
+100657,328,"Yoga Mat","Sports And Outdoors",2,127.72,0.10,"2024-09-09","2024-09-13","Gift Card",NULL,229.90
+100658,78,"Denim Jacket","Clothing",4,47.26,0.00,"2023-06-11","2023-11-11","Paypal",NULL,189.04
+100659,328,"Toaster","Home And Kitchen",3,94.40,0.00,"2023-02-08","2023-03-08","Credit Card",NULL,283.20
+100660,315,"Whiteboard","Office Supplies",1,57.62,0.05,"2024-10-27","2024-10-29","Debit Card",NULL,54.74
+100661,6,"Cutting Board","Home And Kitchen",1,124.53,0.00,"2023-01-03","2023-11-03","Gift Card",NULL,124.53
+100662,140,"Hair Straightener","Beauty",2,7.54,0.00,"2024-08-02","2024-12-02","Debit Card",NULL,15.08
+100664,52,"Electric Kettle","Home And Kitchen",1,62.27,0.00,"2023-02-08","2023-07-08","Debit Card",NULL,62.27
+100665,312,"Cutting Board","Home And Kitchen",2,75.65,0.00,"2024-08-20","2024-08-26","Bank Transfer",NULL,151.30
+100667,340,"Sticky Notes","Office Supplies",1,23.21,0.00,"2023-08-04","2023-10-04","Gift Card",NULL,23.21
+100668,194,"Bicycle Helmet","Sports And Outdoors",5,173.62,0.00,"2023-03-19",NULL,"Gift Card",NULL,868.10
+100670,285,"Tablet Stand","Electronics",1,193.41,0.10,"2024-02-03","2024-09-03",NULL,NULL,174.07
+100671,13,"Lipstick Set","Beauty",1,39.85,0.00,"2023-03-25","2023-03-28","Debit Card",NULL,39.85
+100672,8,"Ballpoint Pens","Office Supplies",2,44.22,0.15,"2024-07-13","2024-07-15","Credit Card",NULL,75.17
+100673,256,"Coffee Maker","Home And Kitchen",1,121.98,0.00,"2024-12-29","2024-12-30","Debit Card",NULL,121.98
+100675,62,"Wool Sweater","Clothing",5,74.94,0.00,"2023-03-25","2023-03-29","Debit Card",NULL,374.70
+100676,310,"Wireless Mouse","Electronics",3,28.66,0.05,"2023-09-02","2023-12-02","Gift Card",NULL,81.68
+100677,170,"Stapler","Office Supplies",1,27.58,0.00,"2023-03-23","2023-03-29","Bank Transfer",NULL,27.58
+100678,126,"Bluetooth Speaker","Electronics",5,106.84,0.10,"2024-06-06","2024-12-06","Gift Card",NULL,480.78
+100679,126,"Printer Paper","Office Supplies",1,46.83,0.15,"2023-12-19","2023-12-25","Debit Card",NULL,39.81
+100681,62,"Noise Cancelling Headphones","Electronics",1,110.60,0.00,"2023-09-24","2023-09-25","Paypal",NULL,110.60
+100683,33,"Perfume 50ml","Beauty",4,41.62,0.00,"2024-06-20","2024-06-24","Debit Card",NULL,166.48
+100684,256,"Face Moisturizer","Beauty",2,57.30,0.10,"2024-08-22","2024-08-24","Debit Card",NULL,103.14
+100685,31,"Yoga Mat","Sports And Outdoors",1,51.18,0.00,"2024-02-02","2024-08-02","Credit Card",NULL,51.18
+100687,165,"Smartwatch","Electronics",2,242.87,0.20,"2023-07-08","2023-11-08","Gift Card",NULL,388.59
+101151,193,"Coffee Maker","Home And Kitchen",2,75.05,0.00,"2023-12-07",NULL,"Bank Transfer",NULL,150.10
+100100,21,"Coffee Maker","Home And Kitchen",2,92.76,0.00,"2024-05-31","2024-07-06","Paypal",NULL,185.52
+100101,21,"Electric Razor","Beauty",2,33.60,0.20,"2024-06-19","2024-06-21","Bank Transfer",NULL,53.76
+100102,45,"Wireless Mouse","Electronics",2,56.83,0.10,"2023-02-18","2023-02-25","Gift Card",NULL,102.29
+100103,280,"Running Shoes","Clothing",1,42.79,0.00,"2024-02-10","2024-12-10","Credit Card",NULL,42.79
+101180,254,"Electric Razor","Beauty",4,17.23,0.10,"2024-11-25",NULL,"Bank Transfer",NULL,62.03
+100105,56,"Toaster","Home And Kitchen",2,19.64,0.00,"2023-09-15","2023-09-24","Credit Card",NULL,39.28
+100106,315,"Sunscreen SPF50","Beauty",1,61.79,0.00,"2024-10-25","2024-10-31","Debit Card",NULL,61.79
+100108,294,"Ceramic Mug Set","Home And Kitchen",1,31.62,0.20,"2023-10-15","2023-10-18","Debit Card",NULL,25.30
+100110,61,"Yoga Mat","Sports And Outdoors",1,81.26,0.10,"2023-12-20",NULL,"Bank Transfer",NULL,73.13
+100111,27,"Cutting Board","Home And Kitchen",5,144.97,0.00,"2023-04-07","2023-07-13","Debit Card",NULL,724.85
+100114,124,"Wool Sweater",NULL,1,35.21,0.00,"2023-06-01","2023-08-01","Credit Card",NULL,35.21
+100115,62,"Facial Cleanser","Beauty",4,39.51,0.00,"2023-12-28","2024-04-01","Debit Card",NULL,158.04
+100116,77,"Notebook Pack","Office Supplies",3,12.24,0.00,"2024-04-14","2024-04-22","Credit Card",NULL,36.72
+100117,345,"Sleeping Bag","Sports And Outdoors",2,157.20,0.15,"2023-09-13","2023-09-23","Gift Card",NULL,267.24
+100120,353,"Whiteboard","Office Supplies",1,19.38,0.00,"2024-02-04","2024-04-04","Gift Card",NULL,19.38
+100641,277,"Yoga Mat","Sports And Outdoors",3,170.17,0.10,"2024-03-29","2024-03-30","Bank Transfer",NULL,459.46
+100688,281,"Calculator","Office Supplies",3,52.40,0.15,"2024-02-20","2024-02-27","Gift Card",NULL,133.62
+100689,279,"Sticky Notes","Office Supplies",5,56.60,0.00,"2023-01-23","2023-01-26","Gift Card",NULL,283.00
+100690,73,"Blender","Home And Kitchen",1,103.87,0.15,"2023-10-22","2023-10-26","Credit Card",NULL,88.29
+100691,83,"Running Shoes","Clothing",5,118.51,0.00,"2024-03-10",NULL,"Credit Card",NULL,592.55
+100692,5,"Mechanical Keyboard",NULL,2,22.68,0.00,"2023-09-09","2023-09-19","Gift Card",NULL,45.36
+100693,259,"File Folders","Office Supplies",1,51.48,0.15,"2023-12-28","2023-12-31","Debit Card",NULL,43.76
+100695,284,"Desk Lamp","Office Supplies",1,8.61,0.10,"2024-05-20","2024-05-28","Paypal",NULL,7.75
+100697,64,"Hair Dryer","Beauty",4,15.49,0.20,"2024-01-26","2024-01-27","Credit Card",NULL,49.57
+100698,218,"File Folders","Office Supplies",5,27.74,0.00,"2024-06-20","2024-06-29","Debit Card",NULL,138.70
+100700,139,"Camping Tent","Sports And Outdoors",5,109.34,0.00,"2024-03-07","2024-07-07","Debit Card",NULL,546.70
+100703,312,"Wool Sweater","Clothing",2,27.50,0.10,"2024-05-15","2024-05-19","Gift Card",NULL,49.50
+100704,357,"Whiteboard","Office Supplies",3,15.18,0.00,"2024-01-24","2024-01-30","Credit Card",NULL,45.54
+100705,351,"Air Fryer","Home And Kitchen",1,114.58,0.00,"2024-01-24","2024-01-30","Credit Card",NULL,114.58
+100706,21,"Water Bottle","Sports And Outdoors",2,121.07,0.00,"2024-02-15","2024-02-21","Credit Card",NULL,242.14
+100707,217,"Sunscreen SPF50","Beauty",4,62.08,0.00,"2024-11-26","2024-11-30","Gift Card",NULL,248.32
+100708,347,"Perfume 50ml","Beauty",2,38.05,0.05,"2023-10-14","2023-10-18","Bank Transfer",NULL,72.30
+100709,313,"Bluetooth Speaker","Electronics",2,183.81,0.00,"2023-04-01","2023-09-01","Debit Card",NULL,367.62
+100710,83,"Water Bottle","Sports And Outdoors",1,169.95,0.00,"2024-10-20","2024-10-21","Debit Card","gift wrap requested",169.95
+100713,351,"Face Moisturizer","Beauty",4,71.11,0.15,"2024-03-27","2024-03-29","Gift Card",NULL,241.77
+100718,99,"Bluetooth Speaker","Electronics",4,141.07,0.05,"2024-05-16","2024-05-19","Gift Card",NULL,536.07
+100720,272,"Ceramic Mug Set","Home And Kitchen",4,24.16,0.00,"2023-11-28","2023-11-30","Gift Card",NULL,96.64
+100721,121,"Hair Straightener","Beauty",2,73.78,0.00,"2023-09-21","2023-09-23","Paypal",NULL,147.56
+100722,285,"Leather Belt","Clothing",1,35.71,0.10,"2024-11-23","2024-11-25","Gift Card",NULL,32.14
+100725,160,"Sunscreen SPF50","Beauty",1,27.51,0.00,"2024-09-25","2024-09-27","Credit Card",NULL,27.51
+100726,278,"Toaster","Home And Kitchen",2,104.11,0.00,"2023-01-11","2023-03-11","Credit Card",NULL,208.22
+100727,90,"Wool Sweater","Clothing",1,90.02,0.00,"2024-11-19","2024-11-26","Debit Card",NULL,90.02
+100728,235,"Mechanical Keyboard","Electronics",3,137.91,0.15,"2023-05-09","2023-10-09","Paypal",NULL,351.67
+100733,220,"Cutting Board","Home And Kitchen",5,134.41,0.20,"2024-02-04","2024-12-04","Bank Transfer",NULL,537.64
+100734,136,"Ceramic Mug Set","Home And Kitchen",1,144.08,0.10,"2024-09-10",NULL,"Credit Card",NULL,129.67
+100663,25,"Running Shoes","Clothing",4,108.30,0.00,"2024-09-02",NULL,"Credit Card",NULL,433.20
+100666,199,"Portable Charger","Electronics",3,143.75,0.10,"2023-11-24",NULL,"Credit Card",NULL,388.13
+100735,260,"Air Fryer","Home And Kitchen",3,113.77,0.00,"2023-01-08","2023-02-08","Debit Card",NULL,341.31
+100736,300,"Electric Razor","Beauty",4,66.84,0.00,"2024-07-15","2024-07-17","Credit Card",NULL,267.36
+100737,315,"Smartwatch","Electronics",3,182.32,0.00,"2023-11-18","2023-11-25","Debit Card",NULL,546.96
+100739,73,"Winter Coat","Clothing",1,51.13,0.00,"2024-07-20",NULL,"Paypal",NULL,51.13
+100144,346,"Bluetooth Speaker","Electronics",5,155.84,0.00,"2023-01-08","2023-11-08","Gift Card","gift wrap requested",779.20
+100122,279,"Desk Organizer","Office Supplies",1,13.15,0.00,"2024-07-15","2024-07-23","Debit Card",NULL,13.15
+100123,8,"Blender","Home And Kitchen",5,91.03,0.00,"2024-03-16","2024-03-21","Debit Card",NULL,455.15
+100124,225,"Resistance Bands","Sports And Outdoors",3,113.12,0.00,"2023-01-23","2023-01-26","Debit Card",NULL,339.36
+100125,338,"Wireless Mouse","Electronics",2,211.27,0.00,"2023-09-14","2023-09-21","Gift Card",NULL,422.54
+100126,50,"Laptop Stand","Electronics",2,139.94,0.00,"2024-10-02",NULL,"Bank Transfer",NULL,279.88
+100127,312,"Toaster","Home And Kitchen",2,85.48,0.00,"2024-05-16","2024-05-20","Credit Card",NULL,170.96
+100128,293,"Non-Stick Pan","Home And Kitchen",3,13.36,0.15,"2023-05-13","2023-05-16","Credit Card",NULL,34.07
+100129,335,"Yoga Mat","Sports And Outdoors",1,130.44,0.00,"2023-07-14","2023-07-18","Debit Card",NULL,130.44
+100130,250,"Calculator","Office Supplies",1,13.37,0.15,"2024-01-20","2024-01-29","Credit Card",NULL,11.36
+100131,8,"Denim Jacket","Clothing",2,43.56,0.00,"2023-12-31","2024-03-01","Gift Card",NULL,87.12
+100133,321,"Lipstick Set","Beauty",2,36.30,0.00,"2024-09-10","2024-10-16","Debit Card",NULL,72.60
+100135,104,"Non-Stick Pan","Home And Kitchen",3,33.15,0.15,"2024-04-27","2024-04-28","Credit Card",NULL,84.53
+100136,151,"Yoga Mat","Sports And Outdoors",5,141.09,0.10,"2024-06-28","2024-06-30","Gift Card",NULL,634.91
+100139,242,"Non-Stick Pan","Home And Kitchen",2,106.64,0.20,"2024-03-25","2024-04-04","Bank Transfer",NULL,170.62
+100141,212,"Shampoo 500ml","Beauty",3,67.63,0.00,"2023-03-07","2023-04-07","Paypal",NULL,202.89
+100142,104,"Webcam HD","Electronics",3,133.91,0.00,"2024-07-14","2024-07-19","Paypal",NULL,401.73
+100143,165,"Air Fryer","Home And Kitchen",1,48.69,0.00,"2023-09-10","2023-10-15","Bank Transfer",NULL,48.69
+100145,310,"Camping Tent","Sports And Outdoors",1,106.51,0.00,"2023-03-11","2023-11-13","Gift Card","gift wrap requested",106.51
+100150,132,"Bluetooth Speaker","Electronics",3,156.90,0.10,"2024-07-11",NULL,"Debit Card",NULL,423.63
+100151,350,"Perfume 50ml","Beauty",1,40.59,0.00,"2023-01-02","2023-05-02","Paypal","gift wrap requested",40.59
+100742,307,"Leather Belt","Clothing",1,26.80,0.00,"2023-06-30",NULL,"Gift Card",NULL,26.80
+100743,78,"Face Moisturizer","Beauty",4,52.46,0.00,"2023-05-01","2023-06-01","Gift Card","gift wrap requested",209.84
+100744,316,"Desk Organizer","Office Supplies",1,16.74,0.10,"2024-03-01","2024-10-01","Debit Card",NULL,15.07
+100745,175,"Tablet Stand","Electronics",3,20.47,0.15,"2024-12-30","2025-04-01","Credit Card",NULL,52.20
+100746,46,"Laptop Stand","Electronics",2,145.66,0.00,"2023-08-15","2023-08-16","Bank Transfer","gift wrap requested",291.32
+100748,262,"Dumbbell Set","Sports And Outdoors",4,91.15,0.00,"2024-02-02","2024-06-02","Paypal",NULL,364.60
+100751,270,"File Folders","Office Supplies",3,59.23,0.15,"2023-03-21","2023-03-23","Debit Card",NULL,151.04
+100752,294,"Bluetooth Speaker","Electronics",3,155.84,0.00,"2024-01-13","2024-01-20","Credit Card",NULL,467.52
+100753,198,"Cutting Board","Home And Kitchen",2,44.89,0.20,"2023-03-04","2023-08-04","Bank Transfer",NULL,71.82
+100754,267,"Lipstick Set","Beauty",5,43.80,0.20,"2023-01-10","2023-08-10","Paypal",NULL,175.20
+100756,49,"Desk Lamp","Office Supplies",3,21.07,0.00,"2023-02-25","2023-02-27","Paypal","gift wrap requested",63.21
+100757,327,"Yoga Pants","Clothing",4,10.21,0.20,"2024-02-03","2024-07-03","Credit Card",NULL,32.67
+100759,270,"Bicycle Helmet","Sports And Outdoors",2,18.64,0.00,"2023-07-15","2023-07-24","Paypal",NULL,37.28
+100760,342,"Wireless Mouse","Electronics",4,229.83,0.00,"2023-03-27",NULL,"Credit Card",NULL,919.32
+100763,24,"Hair Straightener","Beauty",2,5.79,0.15,"2023-02-11","2023-09-11","Credit Card",NULL,9.84
+100765,142,"Non-Stick Pan",NULL,4,144.42,0.00,"2023-02-12","2023-12-12","Gift Card",NULL,577.68
+100767,130,"Perfume 50ml","Beauty",2,5.36,0.20,"2023-06-06","2023-06-15","Debit Card",NULL,8.58
+100768,298,"Whiteboard","Office Supplies",0,21.33,0.05,"2024-09-13","2024-09-19","Bank Transfer",NULL,0.00
+100769,27,"Calculator","Office Supplies",3,29.41,0.00,"2024-10-21","2024-10-27","Gift Card","gift wrap requested",88.23
+100770,210,"Sleeping Bag","Sports And Outdoors",5,16.42,0.00,"2023-12-21","2023-12-25","Debit Card",NULL,82.10
+100772,259,"Wool Sweater","Clothing",2,63.06,0.10,"2023-01-19","2023-01-27","Paypal",NULL,113.51
+100773,327,"Desk Lamp","Office Supplies",1,25.02,0.10,"2023-10-02","2023-12-02","Credit Card",NULL,22.52
+100774,159,"Denim Jacket","Clothing",1,56.98,0.00,"2023-01-03","2023-09-03","Debit Card",NULL,56.98
+100775,239,"Cotton T-Shirt","Clothing",5,95.79,0.20,"2024-11-20","2024-11-24","Gift Card",NULL,383.16
+100779,158,"Electric Kettle","Home And Kitchen",1,131.05,0.00,"2023-02-11","2023-04-11","Credit Card",NULL,131.05
+100152,351,"Printer Paper","Office Supplies",1,23.59,0.00,"2023-01-02","2023-05-02","Debit Card",NULL,23.59
+100154,36,"Hiking Backpack","Sports And Outdoors",3,100.45,0.10,"2023-12-18","2023-12-27","Credit Card",NULL,271.22
+100153,226,"Webcam HD","Electronics",5,245.16,0.20,"2024-07-19","2024-07-27","Bank Transfer",NULL,980.64
+100155,330,"Yoga Pants","Clothing",1,68.73,0.00,"2024-08-28","2024-08-31","Debit Card",NULL,68.73
+100156,113,"Laptop Stand",NULL,1,115.16,0.00,"2023-05-29","2023-07-06","Bank Transfer",NULL,115.16
+100157,244,"Sunscreen SPF50","Beauty",4,20.46,0.00,"2023-10-18","2023-10-23","Debit Card",NULL,81.84
+100209,120,"Tennis Racket","Sports And Outdoors",1,12.02,0.00,"2024-02-21","2024-02-29","Bank Transfer",NULL,12.02
+100159,313,"Desk Organizer","Office Supplies",3,24.47,0.05,"2024-06-12","2024-12-14","Bank Transfer",NULL,69.74
+100160,168,"Calculator","Office Supplies",1,14.90,0.15,"2024-05-04","2024-06-04",NULL,NULL,12.67
+100216,72,"Camping Tent","Sports And Outdoors",3,68.06,0.10,"2024-09-09","2024-09-15","Bank Transfer",NULL,183.76
+100162,172,"Electric Kettle","Home And Kitchen",2,24.13,0.05,"2024-10-17","2024-10-22","Paypal",NULL,45.85
+100163,76,"Desk Organizer","Office Supplies",1,52.75,0.00,"2023-10-19","2023-10-23","Debit Card",NULL,52.75
+100164,25,"Coffee Maker","Home And Kitchen",2,48.38,0.00,"2023-05-20","2023-05-28","Debit Card",NULL,96.76
+100165,280,"Dumbbell Set","Sports And Outdoors",1,132.98,0.00,"2024-08-28","2024-08-31","Credit Card",NULL,132.98
+100166,309,"Fishing Rod","Sports And Outdoors",4,189.25,0.20,"2024-01-15","2024-01-23","Paypal",NULL,605.60
+100167,4,"Stapler","Office Supplies",1,26.04,0.05,"2024-04-05","2024-05-14","Gift Card",NULL,24.74
+100168,133,"Nail Polish Set","Beauty",1,78.07,0.00,"2024-06-17","2024-06-18","Paypal",NULL,78.07
+100169,297,"Running Shoes","Clothing",5,11.42,0.00,"2023-06-20","2023-06-30","Debit Card",NULL,57.10
+100780,86,"File Folders","Office Supplies",2,42.28,0.00,"2023-10-09","2023-12-09","Bank Transfer",NULL,84.56
+100781,203,"Denim Jacket","Clothing",1,38.45,0.00,"2023-09-17","2023-09-24","Debit Card",NULL,38.45
+100783,138,"Hiking Backpack","Sports And Outdoors",4,128.17,0.20,"2024-05-26","2024-05-31","Paypal",NULL,410.14
+100784,276,"Wool Sweater","Clothing",2,88.60,0.00,"2023-11-11","2023-11-19","Credit Card",NULL,177.20
+100785,68,"Wool Sweater","Clothing",1,66.18,0.00,"2024-03-29","2024-06-04","Paypal",NULL,66.18
+100786,39,"Facial Cleanser","Beauty",0,54.28,0.05,"2023-03-02","2023-10-02","Paypal",NULL,0.00
+100787,111,"Camping Tent","Sports And Outdoors",1,102.26,0.00,"2023-02-19","2023-02-20","Credit Card",NULL,102.26
+100788,80,"Nail Polish Set","Beauty",2,16.74,0.05,"2024-11-26","2024-11-29","Paypal",NULL,31.81
+100790,241,"Nail Polish Set","Beauty",1,41.16,0.15,"2023-12-31","2024-03-01","Bank Transfer",NULL,34.99
+100791,176,"Sneakers","Clothing",2,119.18,0.00,"2024-10-11","2024-11-19","Bank Transfer",NULL,238.36
+100792,225,"Tennis Racket","Sports And Outdoors",4,192.74,0.00,"2024-01-08","2024-09-08","Debit Card",NULL,770.96
+100793,191,"Whiteboard","Office Supplies",3,28.19,0.00,"2024-01-30","2024-02-02","Bank Transfer",NULL,84.57
+100794,286,"Sticky Notes","Office Supplies",3,26.14,0.00,"2024-10-25","2024-10-26","Paypal",NULL,78.42
+100795,79,"File Folders","Office Supplies",2,38.62,0.20,"2024-11-12","2024-12-14","Credit Card",NULL,61.79
+100797,152,"Facial Cleanser","Beauty",1,39.41,0.00,"2023-11-01","2023-12-01","Paypal",NULL,39.41
+100799,144,"Stapler","Office Supplies",4,57.13,0.00,"2024-04-14","2024-04-17","Paypal",NULL,228.52
+100801,29,"Sneakers","Clothing",4,86.42,0.20,"2024-03-18","2024-03-22","Credit Card",NULL,276.54
+100802,134,"Face Moisturizer","Beauty",1,79.33,0.15,"2024-09-06",NULL,"Gift Card",NULL,67.43
+100803,358,"Fishing Rod","Sports And Outdoors",4,126.35,0.05,"2024-09-06",NULL,"Credit Card",NULL,480.13
+100804,28,"Wireless Mouse","Electronics",3,171.70,0.05,"2023-02-01","2023-11-01","Debit Card",NULL,489.35
+100805,66,"Air Fryer","Home And Kitchen",5,18.45,0.10,"2024-01-24","2024-02-02","Debit Card",NULL,83.03
+100806,98,"Stapler","Office Supplies",4,46.35,0.20,"2023-05-09","2023-06-09","Credit Card","gift wrap requested",148.32
+100807,96,"Running Shoes","Clothing",2,109.77,0.00,"2024-03-06","2024-04-06","Bank Transfer",NULL,219.54
+100808,358,"Storage Containers","Home And Kitchen",3,83.35,0.00,"2024-02-27","2024-04-03","Paypal",NULL,250.05
+100738,125,"Electric Kettle","Home And Kitchen",3,91.89,0.10,"2023-07-31",NULL,"Credit Card",NULL,248.10
+100740,160,"Tennis Racket","Sports And Outdoors",1,27.42,0.05,"2023-11-29",NULL,"Debit Card",NULL,26.05
+100811,279,"Running Shoes","Clothing",5,30.23,0.15,"2023-05-05","2023-10-05","Paypal",NULL,128.48
+100813,347,"Cotton T-Shirt","Clothing",2,37.36,0.20,"2023-06-08","2023-08-08","Gift Card",NULL,59.78
+100814,209,"Tennis Racket","Sports And Outdoors",2,195.86,0.00,"2024-07-10",NULL,"Debit Card",NULL,391.72
+100815,167,"Winter Coat","Clothing",1,85.44,0.00,"2024-02-14","2024-02-22","Bank Transfer",NULL,85.44
+100816,209,"Printer Paper","Office Supplies",1,27.81,0.00,"2024-09-03","2024-10-03","Bank Transfer",NULL,27.81
+100171,309,"Toaster","Home And Kitchen",1,135.97,0.00,"2024-11-13","2024-11-19","Paypal",NULL,135.97
+100172,209,"Smartwatch","Electronics",3,44.05,0.00,"2024-07-23","2024-07-31","Paypal",NULL,132.15
+100174,28,"Webcam HD","Electronics",3,174.36,0.20,"2024-06-14","2024-06-19","Bank Transfer",NULL,418.46
+100175,69,"Baseball Cap","Clothing",5,63.62,0.00,"2023-12-17","2023-12-20","Gift Card",NULL,318.10
+100178,327,"Tennis Racket","Sports And Outdoors",1,172.03,0.15,"2023-07-23","2023-07-29",NULL,NULL,146.23
+100179,104,"Blender","Home And Kitchen",1,27.37,0.10,"2023-03-07","2023-10-07","Credit Card",NULL,24.63
+100183,220,"Resistance Bands","Sports And Outdoors",1,38.36,0.00,"2024-03-20","2024-03-30","Gift Card",NULL,38.36
+100184,235,"Wireless Mouse","Electronics",4,125.19,0.00,"2023-09-22","2023-09-27","Credit Card",NULL,500.76
+100186,288,"Whiteboard","Office Supplies",2,30.59,0.00,"2024-07-02","2024-12-02","Bank Transfer",NULL,61.18
+100187,166,"Ceramic Mug Set","Home And Kitchen",2,19.51,0.10,"2023-09-11","2023-11-15",NULL,NULL,35.12
+100809,293,"Toaster","Home And Kitchen",3,125.94,0.00,"2023-04-15","2023-04-18","Gift Card",NULL,377.82
+100810,22,"Baseball Cap","Clothing",1,115.19,0.00,"2023-01-12",NULL,"Bank Transfer",NULL,115.19
+100821,81,"Air Fryer","Home And Kitchen",1,36.03,0.00,"2023-09-28",NULL,"Bank Transfer",NULL,36.03
+100818,113,"Electric Kettle","Home And Kitchen",1,104.10,0.00,"2023-05-09",NULL,"Bank Transfer",NULL,104.10
+100819,146,"Tennis Racket","Sports And Outdoors",3,196.24,0.00,"2024-01-15","2024-01-20","Paypal",NULL,588.72
+100823,8,"Printer Paper","Office Supplies",1,3.72,0.10,"2024-02-29","2024-05-03","Debit Card",NULL,3.35
+100824,119,"Sunscreen SPF50","Beauty",1,41.61,0.00,"2024-09-16","2024-09-17","Bank Transfer",NULL,41.61
+100825,35,"Denim Jacket","Clothing",2,28.99,0.00,"2024-05-15",NULL,"Bank Transfer",NULL,57.98
+100826,29,"Camping Tent","Sports And Outdoors",5,178.05,0.20,"2023-02-02","2023-11-02","Paypal",NULL,712.20
+100875,167,"Electric Kettle","Home And Kitchen",3,141.96,0.00,"2023-07-13","2023-07-21","Bank Transfer",NULL,425.88
+100828,80,"Desk Lamp","Office Supplies",1,5.56,0.20,"2024-04-03","2024-05-03","Paypal",NULL,4.45
+100829,64,"Blender","Home And Kitchen",3,26.96,0.00,"2023-02-01","2023-07-01","Credit Card",NULL,80.88
+100830,53,"Running Shoes","Clothing",1,14.34,0.00,"2024-01-03","2024-03-03","Debit Card",NULL,14.34
+100831,347,"Notebook Pack","Office Supplies",1,49.28,0.20,"2023-05-07","2023-07-13","Paypal",NULL,39.42
+100832,159,"Running Shoes","Clothing",2,48.12,0.00,"2024-05-09","2024-09-15","Gift Card",NULL,96.24
+100833,164,"Yoga Pants","Clothing",1,94.35,0.00,"2024-12-27","2025-05-01","Gift Card","gift wrap requested",94.35
+100834,303,"Bluetooth Speaker","Electronics",3,226.82,0.15,"2024-07-07","2024-07-16","Gift Card",NULL,578.39
+100836,93,"Noise Cancelling Headphones","Electronics",1,116.00,0.15,"2024-04-18","2024-04-28","Gift Card",NULL,98.60
+100837,2,"Electric Razor","Beauty",3,77.19,0.00,"2024-12-29","2025-07-01","Paypal",NULL,231.57
+100839,250,"Yoga Mat","Sports And Outdoors",2,182.17,0.00,"2024-02-19","2024-02-21","Gift Card",NULL,364.34
+100840,311,"Resistance Bands","Sports And Outdoors",2,43.36,0.00,"2023-07-16","2023-07-26","Debit Card",NULL,86.72
+100841,278,"Electric Razor","Beauty",4,18.96,0.20,"2023-02-27","2023-03-03","Bank Transfer",NULL,60.67
+100842,19,"Noise Cancelling Headphones","Electronics",5,92.69,0.10,"2024-07-06","2024-11-06","Debit Card",NULL,417.11
+100843,245,"Fishing Rod","Sports And Outdoors",4,172.22,0.15,"2024-10-12","2024-11-12","Gift Card","gift wrap requested",585.55
+100844,338,"Desk Organizer","Office Supplies",2,15.87,0.10,"2024-05-09","2024-08-09","Gift Card",NULL,28.57
+100845,277,"Shampoo 500ml","Beauty",2,76.00,0.00,"2024-02-12","2024-08-12","Credit Card",NULL,152.00
+100846,323,"Desk Organizer","Office Supplies",2,34.66,0.10,"2024-04-23","2024-04-25","Bank Transfer",NULL,62.39
+100848,146,"Cotton T-Shirt","Clothing",4,91.05,0.00,"2024-01-28","2024-07-02","Paypal",NULL,364.20
+100849,59,"Blender","Home And Kitchen",3,113.22,0.00,"2024-04-13","2024-04-18","Bank Transfer",NULL,339.66
+100850,105,"Water Bottle","Sports And Outdoors",2,198.85,0.00,"2023-03-04","2023-04-04","Credit Card",NULL,397.70
+100851,165,"Desk Lamp","Office Supplies",1,44.17,0.00,"2023-05-18","2023-05-19","Credit Card",NULL,44.17
+100852,253,"Noise Cancelling Headphones","Electronics",5,225.18,0.00,"2024-04-14","2024-04-17","Gift Card",NULL,1125.90
+100853,305,"Resistance Bands","Sports And Outdoors",2,86.49,0.00,"2024-03-21","2024-03-24","Gift Card",NULL,172.98
+100854,357,"Fishing Rod","Sports And Outdoors",3,114.89,0.10,"2023-01-31","2023-06-02",NULL,NULL,310.20
+100855,251,"Cutting Board","Home And Kitchen",2,132.68,0.10,"2024-02-03","2024-04-03","Paypal",NULL,238.82
+100856,134,"Winter Coat","Clothing",2,43.21,0.05,"2024-05-28","2024-05-31","Bank Transfer",NULL,82.10
+100857,90,"Perfume 50ml","Beauty",2,42.56,0.05,"2023-05-28","2023-06-06","Gift Card","gift wrap requested",80.86
+100858,268,"Calculator","Office Supplies",5,29.35,0.00,"2023-12-14","2023-12-23","Debit Card",NULL,146.75
+100860,35,"Nail Polish Set","Beauty",2,20.35,0.15,"2024-09-21","2024-09-26","Paypal",NULL,34.60
+100862,234,"Nail Polish Set","Beauty",1,12.19,0.05,"2024-08-10","2024-10-10","Gift Card",NULL,11.58
+100864,208,"Calculator","Office Supplies",4,58.35,0.00,"2023-06-27","2023-07-07","Paypal",NULL,233.40
+100867,21,"Perfume 50ml","Beauty",1,22.03,0.00,"2024-12-13","2024-12-17","Gift Card",NULL,22.03
+100868,267,"Storage Containers","Home And Kitchen",1,27.85,0.20,"2024-01-05","2024-08-05","Debit Card",NULL,22.28
+100869,43,"Coffee Maker","Home And Kitchen",2,99.69,0.00,"2024-03-09","2024-10-09","Credit Card",NULL,199.38
+100871,224,"Desk Lamp","Office Supplies",5,25.48,0.15,"2024-12-10",NULL,"Credit Card",NULL,108.29
+100872,310,"Sneakers","Clothing",3,47.05,0.10,"2024-09-06","2024-11-06","Gift Card",NULL,127.04
+100192,32,"Yoga Mat","Sports And Outdoors",4,90.18,0.15,"2023-01-06","2023-03-06","Paypal",NULL,306.61
+100193,311,"Ballpoint Pens","Office Supplies",1,48.02,0.00,"2024-12-25","2025-02-01","Debit Card",NULL,48.02
+100194,53,"Yoga Mat","Sports And Outdoors",3,106.39,0.00,"2024-05-17","2024-05-24","Gift Card",NULL,319.17
+100195,117,"Cutting Board","Home And Kitchen",3,66.70,0.00,"2024-04-05","2024-09-05","Bank Transfer",NULL,200.10
+100197,182,"Wireless Mouse","Electronics",1,192.79,0.10,"2024-04-19","2024-04-22","Bank Transfer",NULL,173.51
+100198,270,"Calculator","Office Supplies",4,34.42,0.00,"2023-11-20","2023-11-29","Gift Card","gift wrap requested",137.68
+100199,57,"Smartwatch","Electronics",3,149.36,0.00,"2024-05-20","2024-05-25","Credit Card",NULL,448.08
+100200,71,"Sleeping Bag","Sports And Outdoors",3,154.72,0.15,"2023-06-21","2023-06-23","Gift Card",NULL,394.54
+100201,338,"Camping Tent","Sports And Outdoors",5,192.85,0.20,"2024-02-24","2024-03-03","Bank Transfer",NULL,771.40
+100990,264,"Denim Jacket","Clothing",4,96.64,0.15,"2024-10-05",NULL,NULL,NULL,328.58
+100874,102,"Nail Polish Set","Beauty",2,43.56,0.00,"2023-01-10","2023-04-10","Credit Card",NULL,87.12
+100876,303,"Perfume 50ml","Beauty",2,26.03,0.10,"2023-10-11","2023-11-18","Bank Transfer",NULL,46.85
+100877,245,"Stapler","Office Supplies",1,27.60,0.00,"2023-03-04","2023-08-04","Debit Card",NULL,27.60
+100879,47,"Resistance Bands","Sports And Outdoors",4,125.44,0.00,"2024-08-13","2024-08-21","Paypal",NULL,501.76
+100880,188,"Webcam HD","Electronics",1,230.83,0.05,"2023-03-03","2023-03-13","Credit Card",NULL,219.29
+100881,93,"Desk Organizer","Office Supplies",4,43.81,0.00,"2024-08-16","2024-08-20","Paypal",NULL,175.24
+100812,89,"Ceramic Mug Set","Home And Kitchen",1,9.83,0.05,"2023-04-24",NULL,"Credit Card",NULL,9.34
+100882,315,"Hiking Backpack","Sports And Outdoors",5,47.18,0.00,"2024-08-23","2024-08-28","Debit Card",NULL,235.90
+100883,208,"Denim Jacket","Clothing",4,113.56,0.05,"2023-03-30","2023-06-04","Gift Card",NULL,431.53
+100887,321,"Wool Sweater","Clothing",2,46.35,0.05,"2024-11-18","2024-11-19","Bank Transfer",NULL,88.07
+100889,210,"Yoga Pants","Clothing",3,67.13,0.00,"2024-04-02","2024-12-02","Debit Card",NULL,201.39
+100890,35,"Desk Lamp","Office Supplies",1,41.41,0.00,"2024-09-20","2024-09-26","Bank Transfer",NULL,41.41
+100891,285,"Sneakers","Clothing",1,30.85,0.05,"2023-01-31","2023-06-02","Credit Card",NULL,29.31
+100892,117,"Air Fryer","Home And Kitchen",4,133.98,0.05,"2024-09-14",NULL,"Credit Card",NULL,509.12
+100895,19,"File Folders","Office Supplies",3,40.29,0.10,"2024-08-15","2024-08-17","Paypal",NULL,108.78
+100898,158,"Yoga Mat","Sports And Outdoors",2,68.49,0.00,"2023-06-07","2023-12-07","Bank Transfer",NULL,136.98
+100899,19,"Bicycle Helmet","Sports And Outdoors",4,32.45,0.20,"2024-07-24","2024-07-25","Bank Transfer",NULL,103.84
+100901,180,"Bicycle Helmet","Sports And Outdoors",4,163.61,0.00,"2024-01-20","2024-01-29","Paypal",NULL,654.44
+100902,329,"Resistance Bands","Sports And Outdoors",3,73.23,0.00,"2024-05-24","2024-05-27","Bank Transfer",NULL,219.69
+100903,198,"Knife Set","Home And Kitchen",3,123.13,0.20,"2023-03-31","2023-04-04","Paypal",NULL,295.51
+100886,23,"Non-Stick Pan","Home And Kitchen",1,1353.50,0.15,"2024-06-26",NULL,"Debit Card",NULL,1150.48
+100905,177,"Sunscreen SPF50","Beauty",4,35.74,0.00,"2024-09-23","2024-09-30","Credit Card",NULL,142.96
+100884,179,"Yoga Mat","Sports And Outdoors",1,102.55,0.20,"2023-08-13","2023-08-21","Bank Transfer",NULL,82.04
+100907,348,"Noise Cancelling Headphones","Electronics",1,221.25,0.15,"2024-01-16","2024-01-19","Bank Transfer",NULL,188.06
+100908,3,"Electric Razor","Beauty",1,16.59,0.15,"2024-08-17","2024-08-25","Bank Transfer",NULL,14.10
+100893,113,"Camping Tent",NULL,2,103.30,0.05,"2024-04-15","2024-04-22","Bank Transfer",NULL,196.27
+100910,178,"Winter Coat","Clothing",3,41.67,0.05,"2024-05-04","2024-12-04","Debit Card",NULL,118.76
+100911,215,"Fishing Rod","Sports And Outdoors",1,135.66,0.10,"2024-11-02","2024-12-02","Gift Card",NULL,122.09
+100912,212,"Dumbbell Set","Sports And Outdoors",2,75.87,0.00,"2024-06-25","2024-06-27","Credit Card",NULL,151.74
+100913,9,"Notebook Pack","Office Supplies",2,43.22,0.15,"2024-01-09","2024-03-09","Paypal",NULL,73.47
+100914,248,"Printer Paper","Office Supplies",1,13.45,0.10,"2023-07-07","2023-11-07","Credit Card",NULL,12.11
+100915,183,"Noise Cancelling Headphones","Electronics",4,247.30,0.10,"2023-05-07","2023-09-07","Gift Card",NULL,890.28
+100916,46,"Smartwatch","Electronics",1,102.37,0.05,"2024-02-28","2024-02-29","Debit Card",NULL,97.25
+100896,116,"Stapler","Office Supplies",4,38.30,0.05,"2024-12-19","2024-12-21","Bank Transfer",NULL,145.54
+100897,159,"Webcam HD","Electronics",2,75.36,0.00,"2024-10-27","2024-10-31","Bank Transfer",NULL,150.72
+100919,266,"Bluetooth Speaker","Electronics",1,170.40,0.20,"2024-12-24","2024-12-29",NULL,NULL,136.32
+100920,267,"Yoga Pants","Clothing",3,65.16,0.15,"2023-01-22",NULL,"Gift Card",NULL,166.16
+100926,227,"Resistance Bands","Sports And Outdoors",1,45.79,0.10,"2024-04-04","2024-08-04","Bank Transfer",NULL,41.21
+100923,93,"Sneakers","Clothing",2,78.25,0.20,"2024-09-27","2024-09-30","Paypal",NULL,125.20
+100925,183,"Perfume 50ml","Beauty",3,46.24,0.00,"2023-06-04",NULL,"Credit Card",NULL,138.72
+100928,277,"Baseball Cap","Clothing",3,68.21,0.00,"2023-12-27","2024-06-01","Debit Card",NULL,204.63
+100929,180,"Hair Dryer","Beauty",3,74.61,0.15,"2023-05-12","2023-11-12","Credit Card",NULL,190.26
+100930,288,"Desk Lamp","Office Supplies",0,51.92,0.00,"2023-06-03","2023-11-03","Paypal",NULL,0.00
+100931,219,"Hair Straightener","Beauty",5,73.16,0.00,"2024-08-17","2024-08-19","Gift Card",NULL,365.80
+100932,243,"Coffee Maker","Home And Kitchen",5,84.87,0.00,"2024-07-19","2024-07-23","Gift Card",NULL,424.35
+100933,328,"Water Bottle","Sports And Outdoors",4,38.25,0.00,"2024-02-27","2024-06-03","Debit Card",NULL,153.00
+100934,64,"USB-C Cable","Electronics",2,146.25,0.00,"2023-06-11","2023-11-11","Bank Transfer",NULL,292.50
+100935,330,"Shampoo 500ml","Beauty",1,28.72,0.10,"2024-04-07","2024-07-07","Debit Card",NULL,25.85
+100206,327,"Ballpoint Pens","Office Supplies",2,52.46,0.00,"2024-11-14","2024-11-22","Debit Card",NULL,104.92
+100207,2,"Notebook Pack","Office Supplies",4,51.52,0.00,"2023-09-10","2023-10-13","Paypal",NULL,206.08
+100210,278,"Knife Set","Home And Kitchen",1,74.67,0.15,"2024-05-31","2024-06-06","Debit Card",NULL,63.47
+100211,115,"Lipstick Set","Beauty",3,39.99,0.00,"2024-10-26","2024-10-28","Credit Card",NULL,119.97
+100212,71,"Ballpoint Pens","Office Supplies",3,21.63,0.00,"2024-05-08","2024-08-14","Gift Card",NULL,64.89
+100214,44,"Yoga Pants","Clothing",3,67.07,0.05,"2023-02-09","2023-08-09","Gift Card",NULL,191.15
+100215,141,"Toaster","Home And Kitchen",2,149.72,0.20,"2024-01-29","2024-06-02","Bank Transfer",NULL,239.55
+100217,346,"Camping Tent","Sports And Outdoors",1,16.09,0.05,"2023-07-08","2023-11-08","Debit Card",NULL,15.29
+100218,159,"Hiking Backpack","Sports And Outdoors",1,105.47,0.20,"2023-04-08","2023-09-08","Debit Card",NULL,84.38
+100219,81,"Winter Coat","Clothing",4,42.11,0.10,"2024-10-11","2024-11-20","Credit Card",NULL,151.60
+100232,288,"Sticky Notes","Office Supplies",1,14.97,0.00,"2024-01-13","2024-01-14","Bank Transfer",NULL,14.97
+100226,179,"Sleeping Bag","Sports And Outdoors",4,130.65,0.05,"2023-10-13","2023-10-16","Credit Card",NULL,496.47
+100228,88,"Coffee Maker","Home And Kitchen",1,34.47,0.00,"2024-05-26","2024-05-28","Credit Card",NULL,34.47
+100988,77,"Storage Containers","Home And Kitchen",5,64.51,0.00,"2023-04-20","2023-04-27","Bank Transfer",NULL,322.55
+100957,248,"Hair Dryer","Beauty",1,50.05,0.00,"2023-04-05","2023-09-05","Gift Card",NULL,50.05
+100958,86,"Printer Paper","Office Supplies",2,36.49,0.15,"2024-02-03","2024-07-03","Debit Card",NULL,62.03
+100936,132,"Air Fryer","Home And Kitchen",5,89.88,0.00,"2023-02-22","2023-02-27","Paypal",NULL,449.40
+100937,243,"Sneakers","Clothing",1,31.22,0.00,"2023-12-30","2024-03-01","Bank Transfer",NULL,31.22
+100938,211,"Running Shoes","Clothing",2,52.28,0.05,"2024-02-05",NULL,"Debit Card",NULL,99.33
+100939,26,"Toaster","Home And Kitchen",3,82.62,0.00,"2023-08-04","2023-10-04","Paypal",NULL,247.86
+100940,266,"Sneakers","Clothing",3,98.01,0.00,"2023-10-16","2023-10-20","Paypal",NULL,294.03
+100941,204,"Tennis Racket","Sports And Outdoors",4,46.02,0.20,"2023-12-02",NULL,"Credit Card",NULL,147.26
+100942,343,"Sneakers","Clothing",1,114.68,0.00,"2023-04-21","2023-04-30","Credit Card",NULL,114.68
+100943,42,"Lipstick Set","Beauty",3,79.93,0.00,"2023-07-18","2023-07-26","Debit Card",NULL,239.79
+100944,353,"Wireless Mouse","Electronics",3,71.66,0.05,"2024-09-04",NULL,"Gift Card",NULL,204.23
+100945,249,"Sticky Notes","Office Supplies",1,35.69,0.00,"2023-12-30","2024-02-01","Debit Card",NULL,35.69
+100946,96,"Face Moisturizer","Beauty",5,53.81,0.20,"2023-01-21","2023-01-23","Credit Card",NULL,215.24
+100947,313,"Winter Coat","Clothing",1,40.74,0.00,"2023-10-11","2023-11-17","Debit Card",NULL,40.74
+100948,129,"Webcam HD","Electronics",1,70.78,0.00,"2024-07-18","2024-07-21","Credit Card",NULL,70.78
+100949,112,"Bluetooth Speaker","Electronics",1,86.87,0.00,"2024-05-17","2024-05-19","Debit Card",NULL,86.87
+100950,13,"Water Bottle","Sports And Outdoors",4,95.07,0.00,"2024-02-17","2024-02-27",NULL,NULL,380.28
+100953,44,"Nail Polish Set","Beauty",1,67.12,0.00,"2023-10-13","2023-10-23","Credit Card",NULL,67.12
+100954,211,"Electric Kettle","Home And Kitchen",5,52.59,0.05,"2023-06-11","2023-12-11","Gift Card",NULL,249.80
+100955,70,"Wireless Mouse","Electronics",1,188.96,0.00,"2023-03-20",NULL,"Gift Card",NULL,188.96
+100894,206,"Wireless Mouse","Electronics",1,172.97,0.00,"2024-11-06",NULL,"Debit Card",NULL,172.97
+100900,106,"Sunscreen SPF50","Beauty",4,59.76,0.00,"2023-05-26",NULL,"Bank Transfer","gift wrap requested",239.04
+100959,53,"Cutting Board","Home And Kitchen",3,100.25,0.20,"2023-11-06","2023-12-06",NULL,"gift wrap requested",240.60
+101021,58,"Coffee Maker","Home And Kitchen",1,85.56,0.00,"2023-05-21","2023-05-30","Bank Transfer",NULL,85.56
+100961,29,"Lipstick Set","Beauty",1,76.18,0.20,"2023-11-23","2023-11-26","Paypal",NULL,60.94
+100962,219,"Cotton T-Shirt","Clothing",1,15.37,0.00,"2023-11-23","2023-11-27","Paypal",NULL,15.37
+100963,223,"Tablet Stand","Electronics",2,210.96,0.00,"2024-03-01","2024-08-01","Debit Card",NULL,421.92
+100964,346,"Hair Straightener","Beauty",1,43.14,0.20,"2024-03-01","2024-08-01","Gift Card",NULL,34.51
+100965,271,"Knife Set","Home And Kitchen",1,128.70,0.15,"2023-05-26","2023-05-29","Debit Card",NULL,109.40
+101022,270,"Whiteboard","Office Supplies",1,33.22,0.00,"2024-11-15","2024-11-22","Bank Transfer",NULL,33.22
+100967,85,"Noise Cancelling Headphones","Electronics",4,60.52,0.00,"2023-05-18",NULL,"Debit Card",NULL,242.08
+100968,67,"Sleeping Bag","Sports And Outdoors",3,197.89,0.00,"2023-10-27","2023-10-29","Paypal",NULL,593.67
+100970,249,"Leather Belt","Clothing",1,85.10,0.15,"2023-08-17","2023-08-22","Debit Card",NULL,72.34
+100973,61,"Coffee Maker","Home And Kitchen",0,63.29,0.00,"2024-02-29","2024-08-03","Gift Card",NULL,0.00
+100974,126,"Perfume 50ml","Beauty",3,30.38,0.20,"2024-11-26","2024-11-27","Bank Transfer",NULL,72.91
+100975,225,"Portable Charger","Electronics",1,71.01,0.05,"2024-01-05",NULL,"Credit Card",NULL,67.46
+100976,352,"Camping Tent","Sports And Outdoors",2,25.61,0.00,"2023-07-28","2023-07-29","Credit Card",NULL,51.22
+100977,302,"Toaster","Home And Kitchen",2,20.00,0.10,"2023-11-15","2023-11-20","Gift Card",NULL,36.00
+100246,156,"Bluetooth Speaker","Electronics",1,172.20,0.00,"2023-10-11","2023-11-20","Bank Transfer",NULL,172.20
+100233,349,"Desk Organizer","Office Supplies",2,36.88,0.00,"2023-09-16","2023-09-21","Bank Transfer",NULL,73.76
+100234,145,"Wool Sweater","Clothing",3,87.12,0.00,"2023-05-18","2023-05-22","Paypal",NULL,261.36
+100237,266,"Winter Coat","Clothing",3,58.94,0.00,"2024-03-12","2024-11-12","Debit Card",NULL,176.82
+100240,128,"Hair Straightener","Beauty",3,36.37,0.05,"2023-05-30","2023-05-31","Bank Transfer",NULL,103.65
+100241,273,"Face Moisturizer","Beauty",1,35.41,0.20,"2024-07-15","2024-07-22","Bank Transfer",NULL,28.33
+100242,151,"Wool Sweater","Clothing",2,10.25,0.20,"2023-02-05","2023-06-05","Gift Card",NULL,16.40
+100243,241,"Printer Paper","Office Supplies",2,19.36,0.15,"2024-12-18","2024-12-19","Debit Card",NULL,32.91
+100244,200,"Non-Stick Pan","Home And Kitchen",1,143.99,0.15,"2024-08-13","2024-08-21","Bank Transfer",NULL,122.39
+100245,141,"Knife Set","Home And Kitchen",1,68.54,0.20,"2024-11-23","2024-11-30","Paypal",NULL,54.83
+101032,189,"Dumbbell Set","Sports And Outdoors",2,146.85,0.00,"2023-01-17","2023-01-25","Debit Card",NULL,293.70
+101033,22,"Desk Organizer","Office Supplies",2,2.04,0.00,"2023-03-31",NULL,"Credit Card",NULL,4.08
+101035,217,"Desk Organizer","Office Supplies",1,20.34,0.15,"2024-08-21","2024-08-31","Credit Card",NULL,17.29
+101036,294,"Toaster","Home And Kitchen",1,98.34,0.00,"2023-02-03","2023-11-03","Gift Card",NULL,98.34
+100978,304,"Fishing Rod","Sports And Outdoors",0,102.65,0.15,"2024-05-10","2024-11-10","Paypal",NULL,0.00
+100979,46,"Hiking Backpack","Sports And Outdoors",1,199.97,0.10,"2023-09-01",NULL,"Credit Card",NULL,179.97
+100980,293,"Hiking Backpack","Sports And Outdoors",3,133.53,0.00,"2024-09-21","2024-09-25","Gift Card",NULL,400.59
+100983,148,"Knife Set","Home And Kitchen",1,62.42,0.10,"2024-03-05","2024-08-05","Gift Card",NULL,56.18
+100984,290,"Sleeping Bag","Sports And Outdoors",1,14.64,0.00,"2024-05-10","2024-10-10","Credit Card",NULL,14.64
+100985,240,"USB-C Cable","Electronics",2,228.65,0.00,"2023-09-10",NULL,"Debit Card",NULL,457.30
+100987,335,"Electric Razor","Beauty",2,49.85,0.05,"2023-12-13","2023-12-14","Paypal",NULL,94.72
+100989,264,"Perfume 50ml","Beauty",2,53.40,0.20,"2023-04-23","2023-04-30","Debit Card",NULL,85.44
+100996,51,"Running Shoes","Clothing",4,33.79,0.00,"2023-02-09","2023-06-09","Credit Card",NULL,135.16
+100998,131,"Wireless Mouse","Electronics",2,161.46,0.00,"2024-01-12","2024-10-12","Debit Card",NULL,322.92
+100999,83,"Running Shoes","Clothing",1,82.11,0.00,"2024-11-23","2024-11-26","Paypal",NULL,82.11
+101003,40,"Face Moisturizer","Beauty",3,39.57,0.00,"2024-10-09","2024-11-09","Bank Transfer",NULL,118.71
+101005,98,"Sunscreen SPF50","Beauty",1,9.45,0.20,"2023-02-16","2023-02-17","Debit Card",NULL,7.56
+101006,147,"Running Shoes","Clothing",3,84.51,0.15,"2024-05-27","2024-05-31","Debit Card",NULL,215.50
+101007,354,"Blender","Home And Kitchen",4,133.28,0.00,"2024-02-05","2024-10-05","Gift Card",NULL,533.12
+101009,61,"Wool Sweater","Clothing",1,103.95,0.20,"2023-07-22","2023-07-30","Debit Card",NULL,83.16
+101010,197,"Blender","Home And Kitchen",4,37.19,0.00,"2023-05-17","2023-05-26","Credit Card",NULL,148.76
+101011,164,"USB-C Cable","Electronics",1,185.88,0.00,"2024-02-23","2024-03-03","Debit Card",NULL,185.88
+101012,332,"Noise Cancelling Headphones","Electronics",1,34.92,0.00,"2023-09-15","2023-09-22","Debit Card",NULL,34.92
+101013,274,"Cutting Board",NULL,1,70.99,0.10,"2024-07-07","2024-11-07","Bank Transfer",NULL,63.89
+101014,249,"Denim Jacket","Clothing",2,97.69,0.00,"2023-07-19",NULL,NULL,NULL,195.38
+101015,229,"Perfume 50ml","Beauty",2,74.09,0.10,"2023-03-23",NULL,"Paypal",NULL,133.36
+101016,320,"Whiteboard","Office Supplies",1,16.78,0.20,"2024-03-11","2024-10-29","Paypal",NULL,13.42
+101017,223,"Sunscreen SPF50","Beauty",1,6.63,0.00,"2024-03-11","2024-10-29","Credit Card",NULL,6.63
+101023,345,"Non-Stick Pan","Home And Kitchen",1,66.73,0.10,"2024-02-16","2024-02-24","Paypal",NULL,60.06
+101024,214,"Portable Charger","Electronics",2,112.43,0.00,"2023-12-28","2024-07-01","Gift Card",NULL,224.86
+101026,57,"File Folders","Office Supplies",4,13.82,0.00,"2023-12-18","2023-12-21","Paypal",NULL,55.28
+101027,19,"Knife Set","Home And Kitchen",2,74.57,0.10,"2023-03-11","2023-06-11","Gift Card",NULL,134.23
+101028,33,"Face Moisturizer","Beauty",5,12.04,0.15,"2023-04-03","2023-12-03","Gift Card",NULL,51.17
+101029,116,"Printer Paper","Office Supplies",1,14.69,0.20,"2023-02-18","2023-02-20","Paypal",NULL,11.75
+101030,278,"Water Bottle","Sports And Outdoors",2,105.09,0.00,"2023-07-15","2023-07-17","Credit Card",NULL,210.18
+101037,93,"Sneakers","Clothing",2,59.33,0.15,"2023-02-03","2023-11-03","Gift Card",NULL,100.86
+101038,262,"Cutting Board","Home And Kitchen",5,41.91,0.00,"2024-01-18","2024-01-23","Bank Transfer",NULL,209.55
+101039,287,"Tennis Racket","Sports And Outdoors",1,35.61,0.00,"2023-05-12","2023-10-12","Gift Card",NULL,35.61
+101040,213,"Stapler","Office Supplies",5,42.48,0.00,"2023-07-05","2023-12-05","Paypal",NULL,212.40
+101041,31,"Perfume 50ml","Beauty",2,61.32,0.15,"2024-03-07","2024-08-07","Debit Card",NULL,104.24
+101042,163,"Yoga Pants","Clothing",1,103.86,0.00,"2023-05-12","2023-10-12","Debit Card",NULL,103.86
+101043,212,"Water Bottle","Sports And Outdoors",1,118.45,0.00,"2023-08-15","2023-11-08","Debit Card",NULL,118.45
+101044,2,"Laptop Stand","Electronics",1,96.58,0.05,"2023-08-15","2023-11-08","Paypal",NULL,91.75
+101045,108,"Yoga Pants","Clothing",1,52.53,0.05,"2024-08-19","2024-08-24","Gift Card",NULL,49.90
+101046,78,"Yoga Mat","Sports And Outdoors",1,54.77,0.00,"2024-12-17","2024-12-24","Bank Transfer",NULL,54.77
+101136,52,"Shampoo 500ml","Beauty",1,33.50,0.00,"2023-10-30",NULL,"Paypal",NULL,33.50
+100247,130,"Dumbbell Set","Sports And Outdoors",1,180.03,0.00,"2024-04-13","2024-04-16","Debit Card",NULL,180.03
+100248,263,"Desk Lamp","Office Supplies",2,43.05,0.00,"2024-09-23","2024-09-27","Debit Card",NULL,86.10
+100249,324,"Dumbbell Set","Sports And Outdoors",1,71.67,0.00,"2024-08-10","2024-10-18","Credit Card",NULL,71.67
+100250,93,"Desk Organizer","Office Supplies",1,49.30,0.00,"2024-03-14","2024-03-17","Gift Card",NULL,49.30
+100251,7,"Shampoo 500ml","Beauty",1,14.91,0.00,"2023-01-22","2023-01-25","Paypal",NULL,14.91
+100252,219,"Desk Organizer","Office Supplies",4,22.49,0.00,"2024-09-23","2024-09-27","Debit Card",NULL,89.96
+100254,309,"Electric Razor","Beauty",5,15.37,0.15,"2024-04-04","2024-06-04","Gift Card",NULL,65.32
+100255,115,"USB-C Cable","Electronics",1,42.55,0.00,"2024-06-21","2024-06-26","Credit Card",NULL,42.55
+100256,271,"Hair Dryer","Beauty",1,40.26,0.00,"2024-12-23","2025-01-01","Debit Card",NULL,40.26
+100258,17,"Blender","Home And Kitchen",5,20.08,0.15,"2023-03-27",NULL,"Paypal",NULL,85.34
+100259,111,"Sunscreen SPF50","Beauty",3,62.66,0.00,"2023-10-21","2023-10-25","Bank Transfer",NULL,187.98
+100260,236,"Yoga Pants","Clothing",5,117.63,0.00,"2024-12-29","2024-12-31","Bank Transfer",NULL,588.15
+100262,308,"Notebook Pack","Office Supplies",2,56.31,0.00,"2024-12-13","2024-12-16","Paypal",NULL,112.62
+101126,184,"Facial Cleanser","Beauty",2,41.88,0.20,"2024-10-16","2024-10-26","Bank Transfer",NULL,67.01
+101105,177,"Wireless Mouse","Electronics",3,150.28,0.00,"2023-08-18","2023-08-28","Paypal",NULL,450.84
+101106,109,"Desk Lamp","Office Supplies",1,56.31,0.00,"2023-05-29","2023-05-31","Gift Card",NULL,56.31
+101107,81,"Perfume 50ml","Beauty",1,35.67,0.00,"2023-04-03","2023-10-03","Gift Card",NULL,35.67
+101110,70,"Hair Straightener","Beauty",5,71.32,0.10,"2024-01-12","2024-02-12","Gift Card",NULL,320.94
+101047,92,"Electric Kettle","Home And Kitchen",1,46.93,0.10,"2023-04-21",NULL,"Debit Card",NULL,42.24
+101048,55,"Perfume 50ml","Beauty",1,71.84,0.20,"2023-01-19","2023-01-23","Paypal",NULL,57.47
+101050,335,"Ceramic Mug Set","Home And Kitchen",5,80.28,0.15,"2024-10-10","2024-10-14","Gift Card",NULL,341.19
+101052,211,"Lipstick Set","Beauty",1,67.21,0.00,"2024-04-08","2024-10-08","Bank Transfer",NULL,67.21
+101031,86,"Cutting Board","Home And Kitchen",1,23.41,0.05,"2023-04-10","2023-07-10","Bank Transfer",NULL,22.24
+101055,174,"Storage Containers","Home And Kitchen",2,62.74,0.00,"2023-07-18","2023-07-28","Debit Card",NULL,125.48
+101056,335,"Whiteboard","Office Supplies",4,4.14,0.20,"2024-05-22","2024-05-31",NULL,NULL,13.25
+101057,143,"Ceramic Mug Set","Home And Kitchen",5,75.28,0.00,"2023-03-02","2023-12-02","Bank Transfer",NULL,376.40
+101058,61,"Storage Containers","Home And Kitchen",1,115.66,0.00,"2024-01-10","2024-11-10","Bank Transfer",NULL,115.66
+101049,265,"Cotton T-Shirt","Clothing",1,28.58,0.00,"2023-06-17","2023-06-26","Bank Transfer",NULL,28.58
+101060,91,"Facial Cleanser","Beauty",2,42.75,0.00,"2023-04-02","2023-08-02","Gift Card",NULL,85.50
+101062,225,"Sticky Notes","Office Supplies",2,44.99,0.00,"2024-06-28","2024-06-29","Paypal",NULL,89.98
+101063,145,"Whiteboard","Office Supplies",1,59.35,0.10,"2024-10-15","2024-10-18","Credit Card",NULL,53.42
+101064,81,"Face Moisturizer","Beauty",3,56.87,0.20,"2023-07-13","2023-07-15","Gift Card",NULL,136.49
+101065,188,"Notebook Pack","Office Supplies",1,23.12,0.00,"2023-08-19","2023-08-20","Credit Card",NULL,23.12
+101066,301,"Printer Paper","Office Supplies",2,6.38,0.05,"2024-02-12","2024-11-12","Debit Card",NULL,12.12
+101067,164,"Cutting Board","Home And Kitchen",1,117.34,0.00,"2023-01-08","2023-08-08","Bank Transfer",NULL,117.34
+101068,267,"Smartwatch","Electronics",3,136.02,0.00,"2023-11-22","2023-11-27","Bank Transfer","gift wrap requested",408.06
+101069,329,"Bicycle Helmet","Sports And Outdoors",1,163.97,0.15,"2023-05-18","2023-05-23","Gift Card",NULL,139.37
+101070,261,"Resistance Bands","Sports And Outdoors",1,121.11,0.00,"2024-08-11","2024-09-11","Debit Card",NULL,121.11
+101051,127,"Sunscreen SPF50","Beauty",4,32.40,0.05,"2023-06-13","2023-06-23","Bank Transfer",NULL,123.12
+101072,160,"Mechanical Keyboard","Electronics",5,66.52,0.00,"2023-06-22","2023-06-30","Credit Card",NULL,332.60
+101053,291,"Bluetooth Speaker","Electronics",1,125.84,0.15,"2024-03-30","2024-08-04","Bank Transfer",NULL,106.96
+101075,145,"Knife Set","Home And Kitchen",1,54.08,0.20,"2023-05-16","2023-05-25","Gift Card",NULL,43.26
+101076,153,"Ceramic Mug Set","Home And Kitchen",2,115.65,0.00,"2023-02-10","2023-05-10","Gift Card",NULL,231.30
+101078,250,"Bicycle Helmet","Sports And Outdoors",4,36.15,0.00,"2024-12-31","2025-03-01","Gift Card",NULL,144.60
+101081,136,"File Folders","Office Supplies",2,53.47,0.00,"2023-05-12","2023-10-12","Credit Card",NULL,106.94
+101083,9,"Portable Charger",NULL,1,62.20,0.20,"2023-11-30",NULL,"Gift Card",NULL,49.76
+101085,261,"Hiking Backpack","Sports And Outdoors",2,99.48,0.20,"2024-02-26","2024-07-03","Credit Card",NULL,159.17
+101088,197,"Hair Dryer","Beauty",2,34.15,0.00,"2024-08-22","2024-08-26","Bank Transfer",NULL,68.30
+100263,355,"Bicycle Helmet","Sports And Outdoors",1,166.37,0.00,"2023-12-12","2023-12-20","Debit Card",NULL,166.37
+100264,190,"Cotton T-Shirt","Clothing",1,43.21,0.10,"2024-10-19","2024-10-26","Gift Card",NULL,38.89
+100265,255,"Hair Straightener","Beauty",1,74.54,0.15,"2024-06-08","2024-08-16","Gift Card",NULL,63.36
+100266,192,"Tennis Racket","Sports And Outdoors",2,70.32,0.00,"2023-06-14","2023-06-23","Gift Card",NULL,140.64
+100267,279,"Tablet Stand","Electronics",3,104.87,0.15,"2024-03-28","2024-03-31","Debit Card",NULL,267.42
+100268,40,"Printer Paper","Office Supplies",1,54.94,0.10,"2024-04-21","2024-04-23","Gift Card",NULL,49.45
+100271,165,"Electric Kettle","Home And Kitchen",2,17.41,0.15,"2023-11-11","2023-11-20","Credit Card",NULL,29.60
+100272,146,"Cutting Board",NULL,1,13.26,0.10,"2023-04-13",NULL,"Paypal",NULL,11.93
+101092,120,"Ceramic Mug Set","Home And Kitchen",3,118.02,0.00,"2024-07-12","2024-12-13","Gift Card",NULL,354.06
+101093,283,"Storage Containers","Home And Kitchen",5,147.76,0.15,"2023-12-27","2023-12-28","Debit Card","gift wrap requested",627.98
+101094,9,"Calculator","Office Supplies",1,15.42,0.10,"2023-12-27","2023-12-28","Debit Card",NULL,13.88
+101095,169,"Electric Razor","Beauty",3,62.36,0.15,"2023-05-10","2023-10-10","Gift Card",NULL,159.02
+101097,180,"Dumbbell Set","Sports And Outdoors",1,95.29,0.00,"2024-03-13","2024-03-21","Debit Card",NULL,95.29
+101099,20,"Perfume 50ml","Beauty",4,28.26,0.00,"2024-11-14","2024-11-19","Debit Card",NULL,113.04
+101100,360,"Toaster","Home And Kitchen",2,13.00,0.20,"2023-10-24","2023-10-31","Paypal",NULL,20.80
+101101,303,"Water Bottle","Sports And Outdoors",1,178.63,0.00,"2024-11-21","2024-11-25","Gift Card",NULL,178.63
+101103,130,"Ballpoint Pens","Office Supplies",2,54.01,0.00,"2024-03-18","2024-03-26","Paypal",NULL,108.02
+101034,338,"Yoga Pants","Clothing",5,98.61,0.00,"2024-07-01",NULL,"Bank Transfer",NULL,493.05
+101061,332,"Hair Straightener","Beauty",3,9.14,0.00,"2023-08-04",NULL,"Paypal",NULL,27.42
+101111,6,"Camping Tent","Sports And Outdoors",4,14.97,0.20,"2023-05-12","2023-09-12","Debit Card",NULL,47.90
+101112,152,"Hiking Backpack","Sports And Outdoors",3,114.63,0.10,"2023-05-14","2023-05-21","Gift Card",NULL,309.50
+101113,256,"Nail Polish Set","Beauty",2,77.70,0.00,"2023-12-21","2023-12-27","Debit Card",NULL,155.40
+101114,107,"Running Shoes","Clothing",4,10.78,0.15,"2024-01-18","2024-01-26","Paypal",NULL,36.65
+101127,26,"Wireless Mouse","Electronics",1,126.72,0.00,"2023-07-12","2023-08-12","Bank Transfer",NULL,126.72
+101116,151,"Camping Tent","Sports And Outdoors",2,193.70,0.20,"2024-04-21","2024-04-28","Gift Card",NULL,309.92
+101117,133,"Blender","Home And Kitchen",3,24.47,0.20,"2024-04-21","2024-04-28","Credit Card",NULL,58.73
+101118,253,"Ballpoint Pens","Office Supplies",1,28.77,0.00,"2023-06-07",NULL,"Bank Transfer",NULL,28.77
+101119,205,"Shampoo 500ml","Beauty",1,58.22,0.00,"2024-08-12","2024-12-17","Debit Card",NULL,58.22
+101120,262,"Baseball Cap","Clothing",1,16.03,0.15,"2024-07-24","2024-07-27","Paypal",NULL,13.63
+101121,115,"Hair Dryer","Beauty",1,53.06,0.15,"2023-07-09","2023-09-13","Gift Card",NULL,45.10
+101122,241,"Cutting Board","Home And Kitchen",4,115.79,0.10,"2024-04-23","2024-04-28","Credit Card",NULL,416.84
+101124,273,"Shampoo 500ml","Beauty",1,34.53,0.00,"2023-11-02","2023-12-02","Paypal",NULL,34.53
+101145,347,"Hair Dryer","Beauty",2,71.50,0.00,"2023-05-09","2023-07-09","Bank Transfer",NULL,143.00
+101128,246,"Camping Tent","Sports And Outdoors",1,33.54,0.20,"2023-11-16","2023-11-19","Bank Transfer",NULL,26.83
+101129,157,"Leather Belt","Clothing",1,43.94,0.00,"2023-12-27","2024-01-01","Bank Transfer","gift wrap requested",43.94
+101108,54,"File Folders","Office Supplies",1,18.21,0.00,"2023-09-26",NULL,"Bank Transfer",NULL,18.21
+101123,318,"Running Shoes","Clothing",3,72.11,0.20,"2023-12-11",NULL,"Bank Transfer",NULL,173.06
+101133,41,"Nail Polish Set","Beauty",2,24.77,0.15,"2024-02-25","2024-02-28","Paypal",NULL,42.11
+101135,99,"Yoga Mat","Sports And Outdoors",1,142.37,0.10,"2023-02-23",NULL,"Paypal",NULL,128.13
+101138,245,"Stapler","Office Supplies",1,51.51,0.00,"2024-03-21","2024-03-24","Credit Card",NULL,51.51
+101139,108,"Webcam HD","Electronics",1,117.28,0.00,"2023-03-17",NULL,"Bank Transfer",NULL,117.28
+101142,247,"Bicycle Helmet","Sports And Outdoors",5,162.37,0.20,"2024-01-02","2024-03-02","Debit Card",NULL,649.48
+101144,135,"Laptop Stand","Electronics",5,31.02,0.00,"2024-06-14","2024-06-24","Paypal",NULL,155.10
+101146,325,"Winter Coat","Clothing",5,37.07,0.00,"2024-04-05","2024-05-05","Bank Transfer",NULL,185.35
+101147,163,"Sticky Notes","Office Supplies",2,6.31,0.00,"2023-02-12",NULL,"Credit Card",NULL,12.62
+101148,59,"Electric Razor","Beauty",2,43.34,0.00,"2023-07-26","2023-07-28","Credit Card",NULL,86.68
+101154,344,"Toaster","Home And Kitchen",1,114.25,0.00,"2023-04-13","2023-04-19","Credit Card",NULL,114.25
+101156,238,"Cotton T-Shirt","Clothing",1,108.48,0.15,"2023-08-13","2023-08-20","Gift Card",NULL,92.21
+101157,333,"Ceramic Mug Set","Home And Kitchen",2,112.40,0.10,"2023-09-07","2023-10-07","Bank Transfer",NULL,202.32
+101158,142,"Cotton T-Shirt","Clothing",1,98.56,0.00,"2023-06-10","2023-10-13","Bank Transfer",NULL,98.56
+101159,333,"Perfume 50ml","Beauty",5,5.10,0.10,"2024-08-09","2024-09-14","Debit Card",NULL,22.95
+101160,25,"Cotton T-Shirt","Clothing",3,108.68,0.05,"2023-08-23","2023-08-26","Bank Transfer",NULL,309.74
+101161,284,"Sleeping Bag","Sports And Outdoors",1,137.77,0.00,"2024-12-30","2025-09-01","Paypal",NULL,137.77
+101162,299,"Yoga Pants","Clothing",1,34.87,0.10,"2024-04-26","2024-04-30","Gift Card",NULL,31.38
+101163,355,"Non-Stick Pan","Home And Kitchen",2,101.41,0.10,"2024-08-16","2024-08-24","Credit Card",NULL,182.54
+101164,54,"Hair Straightener","Beauty",1,33.99,0.15,"2023-10-16","2023-10-17","Debit Card",NULL,28.89
+101165,76,"Air Fryer","Home And Kitchen",1,133.38,0.00,"2024-12-13",NULL,"Paypal",NULL,133.38
+101166,259,"Facial Cleanser","Beauty",2,9.75,0.00,"2024-03-18","2024-03-24","Gift Card",NULL,19.50
+101167,133,"Winter Coat","Clothing",2,118.47,0.15,"2024-11-16","2024-11-17","Gift Card",NULL,201.40
+101168,153,"Smartwatch","Electronics",2,231.65,0.00,"2023-04-20","2023-04-29","Bank Transfer",NULL,463.30
+101170,206,"Cotton T-Shirt","Clothing",4,94.04,0.10,"2024-04-22","2024-04-25","Gift Card",NULL,338.54
+100161,238,"Cutting Board","Home And Kitchen",1,34.26,0.15,"2024-11-25",NULL,"Credit Card","gift wrap requested",29.12
+100170,227,"Fishing Rod","Sports And Outdoors",1,155.08,0.00,"2023-10-30",NULL,"Debit Card",NULL,155.08
+100176,44,"Face Moisturizer","Beauty",3,70.17,0.05,"2023-09-07",NULL,"Bank Transfer",NULL,199.98
+100177,110,"Rain Jacket","Clothing",1,15.23,0.20,"2023-04-23",NULL,"Paypal",NULL,12.18
+100180,200,"Lipstick Set","Beauty",2,75.16,0.10,"2023-04-23",NULL,"Credit Card",NULL,135.29
+100181,122,"File Folders","Office Supplies",2,2.46,0.00,"2023-04-28",NULL,"Paypal","gift wrap requested",4.92
+100190,320,"Leather Belt","Clothing",2,116.34,0.00,"2023-11-28",NULL,"Credit Card",NULL,232.68
+101171,342,"Bluetooth Speaker","Electronics",1,88.89,0.00,"2024-10-06","2024-11-06","Bank Transfer",NULL,88.89
+101172,160,"Storage Containers","Home And Kitchen",1,100.56,0.00,"2024-01-14","2024-01-21","Gift Card",NULL,100.56
+101173,128,"Wireless Mouse","Electronics",1,37.58,0.10,"2024-01-09","2024-09-09","Debit Card",NULL,33.82
+101176,159,"Yoga Pants","Clothing",1,67.78,0.15,"2024-05-18","2024-05-27","Debit Card",NULL,57.61
+101177,133,"Non-Stick Pan","Home And Kitchen",3,26.27,0.00,"2023-01-07","2023-08-07","Paypal",NULL,78.81
+101109,149,"Notebook Pack","Office Supplies",2,57.13,0.00,"2024-03-23",NULL,NULL,NULL,114.26
+101178,334,"Non-Stick Pan","Home And Kitchen",2,141.48,0.00,"2024-04-23","2024-04-30","Paypal",NULL,282.96
+101182,268,"Nail Polish Set","Beauty",1,92.30,0.00,"2023-01-21","2023-01-28","Gift Card",NULL,92.30
+100536,113,"File Folders","Office Supplies",1,257.70,0.00,"2023-10-20","2023-10-22","Debit Card",NULL,257.70
+100041,20,"Coffee Maker","Home And Kitchen",1,122.16,0.10,"2024-10-31",NULL,"Bank Transfer",NULL,109.94
+101183,134,"Electric Kettle","Home And Kitchen",5,77.86,0.05,"2024-06-30",NULL,"Paypal",NULL,369.84
+101184,212,"Dumbbell Set","Sports And Outdoors",1,11.05,0.00,"2023-02-05","2023-12-05","Credit Card",NULL,11.05
+100078,52,"Rain Jacket","Clothing",5,45.49,0.00,"2024-09-02",NULL,"Bank Transfer",NULL,227.45
+101187,113,"Whiteboard","Office Supplies",1,5.35,0.00,"2023-11-19","2023-11-29","Bank Transfer",NULL,5.35
+101189,275,"Electric Kettle","Home And Kitchen",1,33.92,0.05,"2023-02-14","2023-02-24","Credit Card",NULL,32.22
+101190,226,"Yoga Mat","Sports And Outdoors",1,67.73,0.00,"2023-06-13","2023-06-21","Paypal",NULL,67.73
+101191,328,"File Folders","Office Supplies",0,7.57,0.10,"2024-07-18","2024-07-28","Bank Transfer",NULL,0.00
+101193,338,"Electric Razor","Beauty",2,60.60,0.10,"2024-02-02","2024-05-02","Credit Card",NULL,109.08
+101194,81,"Storage Containers","Home And Kitchen",2,59.35,0.00,"2023-07-12",NULL,"Debit Card",NULL,118.70
+101195,157,"Camping Tent","Sports And Outdoors",1,126.49,0.00,"2023-09-24",NULL,NULL,NULL,126.49
+101196,210,"Printer Paper","Office Supplies",1,51.25,0.05,"2023-03-23","2023-03-28","Paypal",NULL,48.69
+101197,354,"Wool Sweater","Clothing",1,65.65,0.10,"2024-06-15","2024-06-20","Paypal",NULL,59.09
+101198,63,"Electric Kettle","Home And Kitchen",4,16.08,0.00,"2023-09-16","2023-09-17","Debit Card",NULL,64.32
+101199,193,"Dumbbell Set","Sports And Outdoors",3,133.75,0.00,"2024-05-09","2024-09-14","Paypal",NULL,401.25
+101200,212,"Yoga Mat","Sports And Outdoors",2,106.44,0.00,"2024-05-25","2024-05-30","Debit Card",NULL,212.88
+100230,359,"Coffee Maker","Home And Kitchen",2,72.17,0.00,"2023-09-05","2023-11-05","Paypal",NULL,144.34
+100456,296,"Calculator","Office Supplies",5,43.50,0.10,"2023-02-10","2023-07-10","Debit Card",NULL,195.75
+100490,135,"Nail Polish Set",NULL,3,23.03,0.00,"2024-09-27","2024-09-29","Credit Card",NULL,69.09
+100542,279,"Blender","Home And Kitchen",2,83.92,0.10,"2023-06-20","2023-06-21","Debit Card",NULL,151.06
+100669,80,"Hiking Backpack","Sports And Outdoors",1,78.00,0.00,"2023-07-17","2023-07-22","Gift Card",NULL,78.00
+100796,48,"Non-Stick Pan","Home And Kitchen",2,81.22,0.00,"2023-03-12","2023-10-12","Debit Card",NULL,162.44
+100798,315,"Denim Jacket","Clothing",1,30.44,0.00,"2023-10-11","2023-11-14","Gift Card",NULL,30.44
+100866,262,"Electric Kettle","Home And Kitchen",3,22.62,0.00,"2023-10-02","2023-12-02","Paypal",NULL,67.86
+100927,247,"Electric Razor","Beauty",1,57.49,0.00,"2023-03-23","2023-03-29","Gift Card",NULL,57.49
+101054,257,"Sunscreen SPF50",NULL,2,31.67,0.00,"2023-05-24","2023-05-25","Credit Card",NULL,63.34
+101059,131,"Winter Coat","Clothing",1,88.10,0.15,"2024-08-12","2024-12-18","Gift Card",NULL,74.89
+101104,305,"Printer Paper","Office Supplies",4,44.68,0.15,"2024-02-27","2024-08-03","Credit Card",NULL,151.91
+101115,327,"Dumbbell Set","Sports And Outdoors",1,15.48,0.10,"2024-02-21","2024-02-27","Gift Card",NULL,13.93
+101134,293,"Noise Cancelling Headphones","Electronics",2,199.11,0.05,"2023-07-03","2023-08-03","Credit Card",NULL,378.31
+100011,14,"Laptop Stand","Electronics",2,241.05,0.05,"2024-12-08",NULL,"Bank Transfer",NULL,458.00
+100012,1,"Facial Cleanser","Beauty",5,39.65,0.05,"2023-02-25",NULL,"Bank Transfer",NULL,188.34
+100013,332,"Storage Containers","Home And Kitchen",4,140.44,0.15,"2023-10-26",NULL,"Bank Transfer",NULL,477.50
+100014,97,"Lipstick Set","Beauty",5,47.88,0.00,"2023-08-28",NULL,"Debit Card",NULL,239.40
+100016,239,"Winter Coat","Clothing",2,27.38,0.15,"2024-03-28",NULL,"Paypal",NULL,46.55
+100019,190,"Facial Cleanser","Beauty",5,36.43,0.20,"2023-08-06",NULL,"Paypal",NULL,145.72
+100020,284,"Toaster","Home And Kitchen",1,38.67,0.00,"2023-08-27",NULL,NULL,"gift wrap requested",38.67
+100032,306,"Yoga Mat","Sports And Outdoors",2,130.07,0.10,"2024-04-28",NULL,"Debit Card",NULL,234.13
+100033,124,"Face Moisturizer","Beauty",3,62.86,0.00,"2024-11-08",NULL,NULL,NULL,188.58
+100052,164,"Coffee Maker","Home And Kitchen",1,52.43,0.00,"2023-04-03",NULL,"Gift Card",NULL,52.43
+100056,231,"Sticky Notes","Office Supplies",4,22.64,0.00,"2024-09-26",NULL,"Credit Card",NULL,90.56
+100066,321,"Notebook Pack","Office Supplies",4,9.21,0.00,"2023-07-31",NULL,"Debit Card","gift wrap requested",36.84
+100068,308,"Tennis Racket","Sports And Outdoors",2,64.13,0.00,"2023-11-06",NULL,"Paypal",NULL,128.26
+100069,38,"Tablet Stand","Electronics",1,30.87,0.15,"2023-11-06",NULL,"Bank Transfer",NULL,26.24
+100077,304,"Leather Belt","Clothing",1,110.54,0.20,"2023-12-09",NULL,"Paypal",NULL,88.43
+100471,297,"Cutting Board","Home And Kitchen",2,47.08,0.15,"2023-10-05",NULL,"Bank Transfer",NULL,80.04
+100487,12,"Hair Straightener","Beauty",3,22.76,0.15,"2024-07-04",NULL,"Bank Transfer",NULL,58.04
+100489,164,"Desk Lamp","Office Supplies",0,9.33,0.15,"2023-08-27",NULL,"Credit Card",NULL,0.00
+100493,277,"Smartwatch","Electronics",1,93.49,0.15,"2023-07-28",NULL,"Credit Card",NULL,79.47
+100495,336,"Hair Straightener","Beauty",5,24.47,0.00,"2024-02-18",NULL,"Gift Card",NULL,122.35
+100496,220,"Mechanical Keyboard","Electronics",2,158.72,0.10,"2024-07-29",NULL,"Bank Transfer",NULL,285.70
+100498,294,"Sunscreen SPF50","Beauty",1,21.41,0.00,"2023-05-04",NULL,"Credit Card",NULL,21.41
+100081,293,"Sleeping Bag","Sports And Outdoors",2,39.18,0.00,"2023-11-06",NULL,"Credit Card",NULL,78.36
+100092,47,"Water Bottle","Sports And Outdoors",5,147.48,0.00,"2023-12-06",NULL,"Credit Card",NULL,737.40
+100099,122,"Resistance Bands","Sports And Outdoors",3,141.66,0.00,"2023-12-07",NULL,"Bank Transfer",NULL,424.98
+100104,331,"Water Bottle","Sports And Outdoors",5,65.22,0.00,"2023-04-27",NULL,"Paypal",NULL,326.10
+100107,193,"Electric Kettle","Home And Kitchen",1,65.63,0.05,"2023-10-03",NULL,"Credit Card",NULL,62.35
+100109,91,"Calculator","Office Supplies",1,36.79,0.15,"2023-05-24",NULL,"Credit Card",NULL,31.27
+100113,289,"Sticky Notes","Office Supplies",1,45.93,0.10,"2023-07-30",NULL,"Debit Card",NULL,41.34
+100118,108,"Cutting Board","Home And Kitchen",1,22.63,0.00,"2024-06-12",NULL,"Paypal",NULL,22.63
+100121,10,"Ceramic Mug Set","Home And Kitchen",2,145.70,0.00,"2023-07-03",NULL,"Credit Card",NULL,291.40
+100134,156,"Stapler","Office Supplies",1,10.81,0.00,"2024-09-22",NULL,"Bank Transfer",NULL,10.81
+100138,41,"Tennis Racket","Sports And Outdoors",2,11.25,0.05,"2023-12-07",NULL,"Debit Card",NULL,21.38
+100140,239,"Face Moisturizer","Beauty",4,60.31,0.05,"2023-05-26",NULL,"Debit Card",NULL,229.18
+100146,306,"Printer Paper","Office Supplies",1,30.67,0.05,"2024-09-05",NULL,"Debit Card",NULL,29.14
+100147,287,"Denim Jacket","Clothing",4,104.74,0.00,"2024-06-29",NULL,"Gift Card",NULL,418.96
+100158,344,"Wireless Mouse","Electronics",3,166.54,0.00,"2023-07-25",NULL,"Credit Card","gift wrap requested",499.62
+100182,70,"Portable Charger","Electronics",1,62.02,0.20,"2024-10-08",NULL,"Paypal",NULL,49.62
+100188,207,"Running Shoes","Clothing",2,23.27,0.00,"2024-12-01",NULL,"Credit Card","gift wrap requested",46.54
+100189,240,"Ballpoint Pens","Office Supplies",1,54.62,0.00,"2023-11-28",NULL,"Paypal",NULL,54.62
+100191,321,"Hiking Backpack","Sports And Outdoors",1,26.36,0.20,"2023-11-05",NULL,"Gift Card",NULL,21.09
+100202,158,"Desk Organizer","Office Supplies",1,5.42,0.15,"2024-10-29",NULL,"Paypal","gift wrap requested",4.61
+100203,127,"Camping Tent","Sports And Outdoors",2,67.88,0.00,"2023-08-05",NULL,"Debit Card",NULL,135.76
+100204,285,"Baseball Cap","Clothing",3,33.19,0.10,"2024-09-02",NULL,"Debit Card",NULL,89.61
+100205,202,"Water Bottle","Sports And Outdoors",5,159.59,0.00,"2023-11-02",NULL,"Paypal",NULL,797.95
+100208,172,"Wool Sweater","Clothing",3,21.86,0.00,"2023-11-30",NULL,"Bank Transfer",NULL,65.58
+100213,108,"Face Moisturizer","Beauty",4,63.85,0.20,"2023-11-27",NULL,"Gift Card",NULL,204.32
+100222,112,"Stapler","Office Supplies",1,46.52,0.00,"2023-10-01",NULL,"Gift Card",NULL,46.52
+100225,154,"Fishing Rod","Sports And Outdoors",2,39.03,0.00,"2023-10-03",NULL,"Credit Card",NULL,78.06
+100231,240,"Storage Containers","Home And Kitchen",2,143.62,0.00,"2023-06-29",NULL,"Gift Card",NULL,287.24
+100235,223,"Cutting Board","Home And Kitchen",2,42.79,0.15,"2023-08-01",NULL,"Credit Card",NULL,72.74
+100236,33,"Facial Cleanser","Beauty",5,18.87,0.00,"2023-08-01",NULL,"Credit Card",NULL,94.35
+100238,205,"Ballpoint Pens","Office Supplies",1,56.79,0.00,"2024-08-05",NULL,"Debit Card",NULL,56.79
+100253,256,"Electric Razor","Beauty",1,74.97,0.20,"2024-11-30",NULL,"Gift Card",NULL,59.98
+100257,355,"Whiteboard","Office Supplies",1,20.17,0.00,"2023-06-30",NULL,"Paypal",NULL,20.17
+100261,239,"Desk Lamp","Office Supplies",1,54.21,0.00,"2024-10-31",NULL,"Gift Card",NULL,54.21
+100269,263,"Air Fryer","Home And Kitchen",1,131.10,0.00,"2024-06-01",NULL,"Paypal",NULL,131.10
+100270,140,"Sneakers","Clothing",3,21.83,0.05,"2024-07-28",NULL,"Debit Card",NULL,62.22
+100273,189,"Yoga Mat","Sports And Outdoors",1,187.48,0.05,"2023-06-24",NULL,"Paypal",NULL,178.11
+100276,57,"Non-Stick Pan",NULL,1,15.55,0.15,"2023-04-28",NULL,"Gift Card",NULL,13.22
+100277,234,"Ceramic Mug Set","Home And Kitchen",2,102.58,0.00,"2023-04-28",NULL,"Paypal",NULL,205.16
+100284,18,"Hair Straightener","Beauty",5,38.34,0.10,"2023-06-02",NULL,"Bank Transfer",NULL,172.53
+100290,8,"Lipstick Set","Beauty",1,65.95,0.00,"2023-10-25",NULL,"Debit Card",NULL,65.95
+100293,141,"Laptop Stand","Electronics",1,196.26,0.00,"2024-09-24",NULL,"Bank Transfer",NULL,196.26
+100301,163,"Electric Kettle","Home And Kitchen",1,101.88,0.00,"2023-10-30",NULL,"Paypal",NULL,101.88
+100305,336,"Desk Organizer","Office Supplies",4,49.46,0.15,"2023-09-05",NULL,"Debit Card",NULL,168.16
+100307,290,"Bicycle Helmet","Sports And Outdoors",5,175.57,0.20,"2023-02-19",NULL,"Gift Card",NULL,702.28
+100312,242,"Sleeping Bag","Sports And Outdoors",1,103.16,0.15,"2023-02-20",NULL,"Debit Card",NULL,87.69
+100316,240,"Camping Tent","Sports And Outdoors",4,152.89,0.20,"2023-10-29",NULL,"Paypal",NULL,489.25
+100319,265,"Webcam HD","Electronics",4,204.46,0.20,"2024-10-01",NULL,"Bank Transfer",NULL,654.27
+100322,356,"Smartwatch","Electronics",1,149.73,0.05,"2023-10-09",NULL,"Debit Card",NULL,142.24
+100328,134,"Rain Jacket","Clothing",2,85.81,0.00,"2024-11-06",NULL,"Credit Card",NULL,171.62
+100330,139,"Fishing Rod","Sports And Outdoors",1,170.86,0.00,"2023-09-08",NULL,"Debit Card",NULL,170.86
+100341,66,"Winter Coat","Clothing",2,50.21,0.00,"2023-09-27",NULL,"Credit Card",NULL,100.42
+100347,290,"Calculator","Office Supplies",1,32.10,0.00,"2023-08-03",NULL,"Credit Card",NULL,32.10
+100351,260,"Nail Polish Set","Beauty",3,45.15,0.00,"2023-10-30",NULL,"Gift Card",NULL,135.45
+100353,243,"Coffee Maker","Home And Kitchen",4,33.98,0.00,"2023-07-27",NULL,"Gift Card",NULL,135.92
+100357,96,"Coffee Maker","Home And Kitchen",1,18.36,0.10,"2023-12-09",NULL,"Credit Card",NULL,16.52
+100777,65,"Air Fryer","Home And Kitchen",2,108.11,0.00,"2024-08-30",NULL,"Paypal",NULL,216.22
+100778,240,"Toaster","Home And Kitchen",1,66.51,0.20,"2024-07-03",NULL,"Paypal",NULL,53.21
+100782,239,"Lipstick Set","Beauty",1,35.20,0.05,"2023-06-04",NULL,"Credit Card",NULL,33.44
+100789,135,"Yoga Mat","Sports And Outdoors",4,189.33,0.00,"2023-08-29",NULL,"Gift Card",NULL,757.32
+100838,215,"Sneakers","Clothing",1,37.76,0.00,"2024-10-03",NULL,"Paypal",NULL,37.76
+100365,202,"Non-Stick Pan","Home And Kitchen",3,148.99,0.00,"2024-07-28",NULL,"Bank Transfer",NULL,446.97
+100366,17,"Toaster","Home And Kitchen",2,9.52,0.10,"2023-07-28",NULL,"Paypal",NULL,17.14
+100373,137,"Webcam HD","Electronics",3,106.55,0.10,"2024-09-25",NULL,"Credit Card",NULL,287.69
+100393,9,"Non-Stick Pan","Home And Kitchen",1,89.12,0.00,"2024-08-26",NULL,"Gift Card",NULL,89.12
+100399,105,"Desk Organizer","Office Supplies",1,26.12,0.00,"2023-10-23",NULL,"Gift Card",NULL,26.12
+100405,151,"Perfume 50ml","Beauty",2,36.35,0.00,"2023-05-04",NULL,"Credit Card",NULL,72.70
+100406,200,"Storage Containers","Home And Kitchen",3,73.82,0.00,"2024-12-01",NULL,"Debit Card",NULL,221.46
+100414,55,"Notebook Pack","Office Supplies",2,29.21,0.00,"2023-08-29",NULL,"Paypal",NULL,58.42
+100415,177,"Cutting Board","Home And Kitchen",2,146.27,0.00,"2024-12-02",NULL,"Bank Transfer",NULL,292.54
+100426,190,"Shampoo 500ml","Beauty",1,32.47,0.00,"2024-10-04",NULL,"Gift Card","gift wrap requested",32.47
+100431,126,"Perfume 50ml","Beauty",2,30.04,0.15,"2023-11-06",NULL,"Bank Transfer",NULL,51.07
+100448,200,"Toaster","Home And Kitchen",2,32.40,0.15,"2023-09-03",NULL,"Debit Card",NULL,55.08
+100450,45,"Smartwatch","Electronics",1,56.67,0.20,"2024-11-07",NULL,"Bank Transfer",NULL,45.34
+100451,167,"Fishing Rod","Sports And Outdoors",2,88.95,0.10,"2023-07-04",NULL,"Paypal",NULL,160.11
+100454,165,"Leather Belt","Clothing",1,71.82,0.20,"2023-08-24",NULL,"Bank Transfer",NULL,57.46
+100455,296,"Tennis Racket","Sports And Outdoors",4,50.68,0.00,"2024-06-28",NULL,"Paypal",NULL,202.72
+100462,303,"Portable Charger","Electronics",1,68.63,0.00,"2023-06-27",NULL,"Debit Card",NULL,68.63
+100463,129,"File Folders","Office Supplies",1,2.16,0.00,"2023-09-30",NULL,"Credit Card",NULL,2.16
+100467,90,"Baseball Cap","Clothing",2,30.13,0.05,"2023-06-21",NULL,"Credit Card",NULL,57.25
+100501,302,"Sneakers","Clothing",1,92.46,0.00,"2024-10-08",NULL,"Debit Card",NULL,92.46
+100502,70,"Sunscreen SPF50","Beauty",2,9.44,0.15,"2023-10-31",NULL,"Credit Card",NULL,16.05
+100504,135,"Electric Kettle","Home And Kitchen",1,124.61,0.00,"2023-10-30",NULL,"Gift Card",NULL,124.61
+100511,13,"Leather Belt","Clothing",1,81.40,0.10,"2024-03-31",NULL,"Paypal",NULL,73.26
+100533,105,"Face Moisturizer","Beauty",2,21.73,0.00,"2023-11-06",NULL,"Debit Card",NULL,43.46
+100537,224,"Air Fryer","Home And Kitchen",4,33.18,0.00,"2024-02-23",NULL,"Gift Card",NULL,132.72
+100541,261,"Toaster","Home And Kitchen",2,121.88,0.00,"2023-05-26",NULL,"Gift Card",NULL,243.76
+100550,334,"Baseball Cap","Clothing",5,40.46,0.10,"2024-05-30",NULL,"Gift Card",NULL,182.07
+100555,249,"Storage Containers","Home And Kitchen",4,12.00,0.15,"2024-07-26",NULL,"Debit Card",NULL,40.80
+100560,356,"Lipstick Set","Beauty",1,17.93,0.00,"2024-08-29",NULL,"Credit Card",NULL,17.93
+100566,2,"Tablet Stand","Electronics",1,239.41,0.20,"2023-12-06",NULL,"Gift Card",NULL,191.53
+100581,289,"Desk Lamp","Office Supplies",1,7.71,0.00,"2023-11-05",NULL,NULL,NULL,7.71
+100583,194,"Lipstick Set","Beauty",2,15.79,0.00,"2024-09-28",NULL,"Gift Card",NULL,31.58
+100585,91,"Knife Set","Home And Kitchen",3,76.46,0.15,"2023-11-10",NULL,"Gift Card",NULL,194.97
+100588,289,"Notebook Pack","Office Supplies",3,9.28,0.20,"2024-08-25",NULL,"Paypal",NULL,22.27
+100591,228,"Sneakers","Clothing",1,53.21,0.20,"2023-11-30",NULL,"Debit Card",NULL,42.57
+100597,271,"Storage Containers","Home And Kitchen",4,76.99,0.00,"2023-09-30",NULL,"Gift Card",NULL,307.96
+100604,227,"Portable Charger","Electronics",4,106.83,0.00,"2023-02-20",NULL,"Debit Card",NULL,427.32
+100605,352,"Lipstick Set","Beauty",2,77.94,0.15,"2024-07-25",NULL,"Paypal",NULL,132.50
+100611,342,"Knife Set","Home And Kitchen",4,114.29,0.15,"2024-12-06",NULL,"Debit Card",NULL,388.59
+100613,18,"Sneakers","Clothing",5,17.78,0.15,"2024-10-04",NULL,"Debit Card",NULL,75.57
+100619,222,"Notebook Pack","Office Supplies",1,31.32,0.05,"2024-01-30",NULL,"Bank Transfer",NULL,29.75
+100630,82,"Wireless Mouse","Electronics",3,72.60,0.00,"2024-11-09",NULL,"Gift Card",NULL,217.80
+100631,8,"Sneakers","Clothing",4,87.24,0.05,"2024-11-09",NULL,"Debit Card",NULL,331.51
+100634,231,"Facial Cleanser","Beauty",4,35.48,0.00,"2024-08-24",NULL,"Paypal",NULL,141.92
+100645,276,"USB-C Cable","Electronics",2,69.55,0.15,"2024-11-08",NULL,"Credit Card","gift wrap requested",118.24
+100646,54,"Bicycle Helmet","Sports And Outdoors",1,192.73,0.00,"2023-12-10",NULL,"Debit Card",NULL,192.73
+100648,141,"Nail Polish Set","Beauty",2,34.00,0.15,"2024-11-15",NULL,"Debit Card",NULL,57.80
+100650,180,"Webcam HD","Electronics",2,86.45,0.00,"2024-04-27",NULL,"Bank Transfer","gift wrap requested",172.90
+100651,2,"Coffee Maker","Home And Kitchen",2,56.75,0.00,"2024-09-29",NULL,"Bank Transfer",NULL,113.50
+100674,85,"Yoga Pants","Clothing",3,16.76,0.00,"2023-09-26",NULL,"Credit Card",NULL,50.28
+100680,141,"Shampoo 500ml","Beauty",4,66.09,0.20,"2024-05-31",NULL,"Credit Card",NULL,211.49
+100682,96,"Air Fryer","Home And Kitchen",1,49.56,0.00,"2024-12-09",NULL,"Bank Transfer",NULL,49.56
+100686,196,"Yoga Pants","Clothing",1,22.10,0.00,"2023-10-01",NULL,"Credit Card",NULL,22.10
+100694,302,"Mechanical Keyboard","Electronics",5,194.94,0.10,"2023-05-22",NULL,"Debit Card",NULL,877.23
+100696,214,"Desk Organizer","Office Supplies",1,32.96,0.05,"2024-03-31",NULL,"Credit Card",NULL,31.31
+100699,38,"Hair Dryer","Beauty",4,14.36,0.15,"2024-06-04",NULL,"Debit Card",NULL,48.82
+100701,288,"Portable Charger","Electronics",5,54.51,0.15,"2023-05-01",NULL,"Debit Card",NULL,231.67
+100702,130,"Wool Sweater","Clothing",4,37.98,0.05,"2023-08-01",NULL,"Bank Transfer",NULL,144.32
+100711,330,"Leather Belt","Clothing",2,103.55,0.00,"2024-08-03",NULL,"Debit Card",NULL,207.10
+100712,140,"Whiteboard","Office Supplies",1,41.41,0.00,"2024-08-12",NULL,"Credit Card",NULL,41.41
+100715,229,"Face Moisturizer","Beauty",1,56.61,0.15,"2023-12-02",NULL,"Credit Card",NULL,48.12
+100349,186,"Knife Set","Home And Kitchen",2,74.67,0.00,"2024-09-20","2024-09-22","Credit Card",NULL,149.34
+100274,286,"Air Fryer","Home And Kitchen",1,106.69,0.10,"2023-05-14","2023-05-22","Gift Card",NULL,96.02
+100275,76,"Ballpoint Pens","Office Supplies",1,45.21,0.00,"2023-01-08",NULL,"Paypal",NULL,45.21
+100278,266,"Hair Straightener","Beauty",1,41.33,0.00,"2024-01-28","2024-04-02","Paypal",NULL,41.33
+100279,314,"Portable Charger","Electronics",1,201.90,0.00,"2023-10-18","2023-10-28","Debit Card",NULL,201.90
+100280,45,"Hair Dryer","Beauty",1,15.70,0.15,"2024-06-30","2024-09-07","Gift Card",NULL,13.35
+100356,252,"Webcam HD","Electronics",2,39.51,0.00,"2024-11-14","2024-11-21","Credit Card",NULL,79.02
+100352,203,"Storage Containers",NULL,4,52.00,0.00,"2023-07-27",NULL,"Credit Card",NULL,208.00
+100436,221,"Calculator","Office Supplies",1,34.47,0.15,"2024-10-21","2024-10-24","Credit Card",NULL,29.30
+100539,311,"File Folders","Office Supplies",4,8.77,0.00,"2024-07-09","2024-10-09","Paypal",NULL,35.08
+100540,115,"Resistance Bands","Sports And Outdoors",2,137.52,0.20,"2024-09-06","2024-10-06","Gift Card","gift wrap requested",220.03
+100714,243,"Webcam HD",NULL,1,41.82,0.00,"2024-02-04","2024-11-04","Credit Card",NULL,41.82
+100820,321,"Hair Straightener","Beauty",4,60.56,0.10,"2023-04-24","2023-04-25","Debit Card",NULL,218.02
+100822,138,"Whiteboard","Office Supplies",1,6.34,0.00,"2024-07-12","2024-12-14","Paypal",NULL,6.34
+100991,301,"Electric Razor","Beauty",2,67.94,0.15,"2023-07-13","2023-07-16","Paypal",NULL,115.50
+100992,345,"Hair Dryer","Beauty",5,47.58,0.20,"2024-12-20","2024-12-28","Debit Card",NULL,190.32
+100993,290,"Hair Dryer",NULL,3,20.78,0.10,"2023-06-14","2023-06-17","Bank Transfer",NULL,56.11
+100995,154,"Cotton T-Shirt","Clothing",2,103.51,0.00,"2023-05-28",NULL,"Credit Card",NULL,207.02
+101084,201,"Whiteboard","Office Supplies",1,29.19,0.00,"2024-08-06","2024-11-06","Gift Card",NULL,29.19
+101185,42,"USB-C Cable","Electronics",2,107.17,0.00,"2023-12-20","2023-12-21","Gift Card",NULL,214.34
+100221,103,"Wireless Mouse","Electronics",1,114.10,0.00,"2024-10-07",NULL,"Credit Card",NULL,114.10
+100607,212,"Hair Dryer","Beauty",1,8.19,0.00,"2024-02-24",NULL,"Debit Card",NULL,8.19
+100716,153,"File Folders","Office Supplies",1,12.20,0.05,"2023-09-03",NULL,"Gift Card",NULL,11.59
+100717,283,"Hiking Backpack","Sports And Outdoors",2,10.57,0.00,"2024-10-28",NULL,"Bank Transfer",NULL,21.14
+100719,5,"Ballpoint Pens","Office Supplies",2,30.57,0.10,"2024-09-27",NULL,"Bank Transfer",NULL,55.03
+100723,206,"Water Bottle","Sports And Outdoors",5,22.64,0.20,"2023-10-27",NULL,"Debit Card",NULL,90.56
+100730,176,"Cotton T-Shirt","Clothing",4,24.93,0.20,"2024-10-03",NULL,"Debit Card","gift wrap requested",79.78
+100741,329,"Leather Belt","Clothing",1,31.54,0.00,"2024-09-28",NULL,"Gift Card",NULL,31.54
+100747,288,"Toaster","Home And Kitchen",1,58.89,0.00,"2023-05-31",NULL,"Gift Card",NULL,58.89
+100749,326,"Winter Coat","Clothing",1,52.43,0.05,"2024-06-05",NULL,"Gift Card",NULL,49.81
+100750,99,"Bluetooth Speaker",NULL,1,193.27,0.05,"2023-09-27",NULL,"Bank Transfer",NULL,183.61
+100755,356,"Blender","Home And Kitchen",5,130.85,0.05,"2023-12-02",NULL,"Credit Card",NULL,621.54
+100758,179,"Yoga Mat","Sports And Outdoors",1,135.22,0.15,"2024-05-26",NULL,"Credit Card",NULL,114.94
+100761,166,"Cutting Board","Home And Kitchen",1,19.73,0.05,"2023-10-01",NULL,"Paypal",NULL,18.74
+100762,332,"Facial Cleanser","Beauty",4,12.52,0.05,"2023-06-04",NULL,"Gift Card",NULL,47.58
+100764,206,"Sneakers","Clothing",1,57.23,0.00,"2023-10-06",NULL,"Gift Card",NULL,57.23
+100766,168,"Webcam HD","Electronics",3,88.20,0.00,"2024-12-05",NULL,"Credit Card",NULL,264.60
+100771,215,"Knife Set","Home And Kitchen",1,101.82,0.00,"2024-10-26",NULL,"Credit Card",NULL,101.82
+100776,206,"Ballpoint Pens","Office Supplies",1,17.54,0.15,"2023-04-21",NULL,"Credit Card",NULL,14.91
+100800,38,"Ballpoint Pens","Office Supplies",2,35.28,0.00,"2023-06-02",NULL,"Paypal",NULL,70.56
+100817,93,"Laptop Stand","Electronics",4,62.33,0.00,"2024-08-22",NULL,"Gift Card",NULL,249.32
+100827,210,"Tablet Stand","Electronics",2,112.98,0.20,"2024-04-28",NULL,"Debit Card",NULL,180.77
+100835,178,"Sleeping Bag","Sports And Outdoors",3,135.91,0.00,"2024-10-31",NULL,"Gift Card",NULL,407.73
+100847,39,"Printer Paper","Office Supplies",1,7.58,0.10,"2024-05-23",NULL,"Paypal",NULL,6.82
+100859,271,"Hair Dryer","Beauty",1,47.15,0.00,"2023-12-03",NULL,"Paypal",NULL,47.15
+100861,139,"Resistance Bands","Sports And Outdoors",2,116.29,0.00,"2024-10-01",NULL,"Debit Card",NULL,232.58
+100865,214,"Perfume 50ml","Beauty",5,61.36,0.05,"2023-08-27",NULL,"Bank Transfer",NULL,291.46
+100870,102,"Hair Straightener","Beauty",2,37.15,0.00,"2024-09-30",NULL,"Bank Transfer",NULL,74.30
+100994,91,"Air Fryer","Home And Kitchen",1,43.97,0.00,"2023-12-04",NULL,"Gift Card",NULL,43.97
+100873,193,"Knife Set","Home And Kitchen",1,57.83,0.00,"2023-10-09",NULL,"Gift Card",NULL,57.83
+100878,206,"Bluetooth Speaker","Electronics",1,206.51,0.00,"2023-03-26",NULL,"Gift Card",NULL,206.51
+100904,146,"Wireless Mouse","Electronics",4,221.12,0.15,"2024-11-07",NULL,"Paypal",NULL,751.81
+100906,107,"Storage Containers","Home And Kitchen",1,66.39,0.10,"2023-11-07",NULL,"Gift Card",NULL,59.75
+100917,146,"Desk Lamp","Office Supplies",2,7.76,0.05,"2023-09-28",NULL,"Bank Transfer",NULL,14.74
+100918,350,"Facial Cleanser","Beauty",1,40.58,0.00,"2023-01-28",NULL,"Paypal",NULL,40.58
+100921,211,"Noise Cancelling Headphones","Electronics",2,241.10,0.20,"2023-10-07",NULL,"Bank Transfer",NULL,385.76
+100922,96,"Toaster","Home And Kitchen",2,79.10,0.00,"2024-05-27",NULL,"Credit Card",NULL,158.20
+100924,126,"Tablet Stand","Electronics",1,44.67,0.00,"2024-09-26",NULL,"Debit Card",NULL,44.67
+100951,203,"Bluetooth Speaker","Electronics",2,17.82,0.00,"2024-08-05",NULL,"Paypal",NULL,35.64
+100952,225,"Denim Jacket","Clothing",1,33.95,0.20,"2024-02-21",NULL,"Bank Transfer",NULL,27.16
+100956,255,"Noise Cancelling Headphones","Electronics",1,147.29,0.00,"2023-10-03",NULL,"Debit Card",NULL,147.29
+100960,343,"Tennis Racket","Sports And Outdoors",4,145.93,0.20,"2023-12-08",NULL,"Paypal",NULL,466.98
+100966,273,"Hair Straightener","Beauty",3,17.15,0.15,"2023-07-30",NULL,"Debit Card",NULL,43.73
+100969,121,"Non-Stick Pan","Home And Kitchen",5,123.43,0.00,"2024-06-05",NULL,"Bank Transfer",NULL,617.15
+100971,310,"Toaster","Home And Kitchen",4,136.40,0.10,"2024-06-03",NULL,"Bank Transfer",NULL,491.04
+100981,87,"Hiking Backpack","Sports And Outdoors",4,84.73,0.00,"2024-06-27",NULL,"Bank Transfer",NULL,338.92
+100982,30,"Hair Straightener","Beauty",2,28.46,0.10,"2024-11-30",NULL,"Debit Card",NULL,51.23
+100986,290,"USB-C Cable","Electronics",1,156.71,0.10,"2024-09-27",NULL,"Bank Transfer",NULL,141.04
+100997,54,"Hair Straightener","Beauty",3,52.91,0.05,"2024-12-04",NULL,"Paypal",NULL,150.79
+101000,70,"Yoga Mat","Sports And Outdoors",4,44.11,0.00,"2023-11-27",NULL,"Debit Card",NULL,176.44
+101001,39,"Smartwatch","Electronics",3,21.46,0.00,"2023-09-29",NULL,"Credit Card",NULL,64.38
+101008,42,"Facial Cleanser","Beauty",2,44.86,0.00,"2024-05-26",NULL,"Debit Card",NULL,89.72
+101019,107,"Winter Coat","Clothing",1,22.19,0.00,"2023-09-04",NULL,"Debit Card",NULL,22.19
+101020,226,"Denim Jacket","Clothing",5,45.18,0.05,"2023-11-27",NULL,"Bank Transfer",NULL,214.61
+101071,149,"Face Moisturizer","Beauty",1,34.85,0.00,"2024-11-27",NULL,"Debit Card",NULL,34.85
+101074,64,"Bicycle Helmet","Sports And Outdoors",1,169.22,0.20,"2024-11-05",NULL,"Paypal",NULL,135.38
+101077,215,"Nail Polish Set","Beauty",5,49.40,0.00,"2024-08-25",NULL,"Bank Transfer",NULL,247.00
+101079,299,"Tablet Stand","Electronics",1,179.33,0.00,"2024-09-30",NULL,"Paypal",NULL,179.33
+101080,106,"Coffee Maker","Home And Kitchen",5,40.95,0.10,"2023-08-04",NULL,"Debit Card",NULL,184.28
+101086,285,"Notebook Pack","Office Supplies",1,52.44,0.00,"2023-10-06",NULL,"Debit Card",NULL,52.44
+101087,6,"Mechanical Keyboard","Electronics",1,238.06,0.00,"2023-10-06",NULL,"Paypal",NULL,238.06
+101089,164,"Shampoo 500ml","Beauty",5,23.94,0.05,"2023-12-09",NULL,"Bank Transfer",NULL,113.72
+101090,154,"Tennis Racket","Sports And Outdoors",2,139.77,0.15,"2024-08-29",NULL,"Paypal",NULL,237.61
+101091,281,"Fishing Rod","Sports And Outdoors",2,99.12,0.10,"2024-08-28",NULL,"Credit Card",NULL,178.42
+101096,267,"Wool Sweater","Clothing",1,59.48,0.15,"2024-12-10",NULL,"Debit Card",NULL,50.56
+101098,147,"Smartwatch","Electronics",1,28.93,0.10,"2024-08-28",NULL,"Credit Card",NULL,26.04
+101102,300,"Yoga Pants","Clothing",5,97.10,0.00,"2024-03-31",NULL,"Bank Transfer",NULL,485.50
+101125,254,"Knife Set","Home And Kitchen",5,36.62,0.05,"2024-02-21",NULL,"Debit Card",NULL,173.95
+101130,36,"Baseball Cap","Clothing",2,94.72,0.20,"2023-12-09",NULL,"Gift Card",NULL,151.55
+101131,253,"Water Bottle","Sports And Outdoors",2,194.78,0.00,"2023-09-24",NULL,"Debit Card",NULL,389.56
+101132,295,"Hair Straightener","Beauty",5,6.81,0.10,"2023-12-01",NULL,"Debit Card",NULL,30.65
+101137,66,"Rain Jacket","Clothing",1,94.42,0.05,"2024-09-23",NULL,"Credit Card",NULL,89.70
+101140,185,"Rain Jacket","Clothing",3,38.17,0.05,"2024-11-01",NULL,"Debit Card",NULL,108.78
+101143,261,"Air Fryer","Home And Kitchen",1,15.59,0.00,"2024-03-24",NULL,"Bank Transfer",NULL,15.59
+101149,228,"Storage Containers","Home And Kitchen",1,38.26,0.15,"2024-10-28",NULL,"Paypal",NULL,32.52
+101152,251,"Mechanical Keyboard","Electronics",3,55.04,0.00,"2023-04-25",NULL,NULL,NULL,165.12
+101153,263,"Perfume 50ml","Beauty",5,78.46,0.05,"2024-03-26",NULL,"Bank Transfer",NULL,372.69
+101155,129,"Electric Kettle","Home And Kitchen",1,48.32,0.15,"2023-09-01",NULL,"Credit Card",NULL,41.07
+101169,86,"Webcam HD","Electronics",2,172.13,0.00,"2024-06-26",NULL,"Gift Card",NULL,344.26
+101174,61,"Ballpoint Pens","Office Supplies",3,14.38,0.15,"2023-12-02",NULL,NULL,NULL,36.67
+101175,282,"Sleeping Bag","Sports And Outdoors",3,75.24,0.10,"2023-09-01",NULL,"Credit Card",NULL,203.15
+101179,234,"Webcam HD","Electronics",3,28.69,0.00,"2024-12-01",NULL,"Gift Card",NULL,86.07
+101181,146,"Desk Lamp","Office Supplies",3,50.21,0.00,"2024-12-02",NULL,"Gift Card",NULL,150.63
+100972,82,"Sneakers","Clothing",3,334.00,0.00,"2024-11-04",NULL,"Debit Card",NULL,1002.00
+101186,172,"Storage Containers","Home And Kitchen",2,39.20,0.15,"2024-04-21",NULL,"Bank Transfer",NULL,66.64
+101188,79,"Wool Sweater","Clothing",4,60.08,0.00,"2023-05-29",NULL,"Paypal",NULL,240.32
+101192,286,"Bicycle Helmet","Sports And Outdoors",5,43.83,0.00,"2024-12-09",NULL,"Paypal",NULL,219.15
+100053,25,"Portable Charger","Electronics",1,47.31,0.20,"2024-11-09",NULL,"Bank Transfer",NULL,37.85
+100729,230,"Smartwatch","Electronics",3,107.16,0.00,"2024-11-22",NULL,"Bank Transfer",NULL,321.48
+100909,61,"Toaster","Home And Kitchen",3,58.73,0.00,"2023-10-23",NULL,"Bank Transfer",NULL,176.19
+101025,291,"Stapler","Office Supplies",2,35.34,0.00,"2023-12-09",NULL,"Bank Transfer",NULL,70.68
