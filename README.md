@@ -1,4 +1,4 @@
-# Retail-sales-data-report-Excel-SQL-and-powerBI-
+# Retail-sales-data-cleanup-Excel-and-SQL
 End-to-end retail sales analytics project — messy transactional data cleaned in Excel/Power Query and PostgreSQL.
 
 # Data Cleaning Documentation — Messy Retail Sales Dataset
