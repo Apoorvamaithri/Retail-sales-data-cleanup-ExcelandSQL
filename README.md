@@ -21,7 +21,7 @@ e-commerce orders dataset (~1,270 raw rows). Cleaning was done in two stages:
 | Column | Issue Found | Method Used | Result |
 |---|---|---|---|
 | **OrderID** | Exact full-row duplicates | Data tab → Remove Duplicates → entire selection (also verified with `=IF(COUNTIF(C2:C1276,C2)>1,"",C2)`) | 44 duplicate rows removed |
-| **OrderID** | Same OrderID appearing with different data in other columns | Data tab → Remove Duplicates → current selection (OrderID column only) | 69 duplicate OrderIDs resolved (kept one row per ID) |
+| **OrderID** | Same OrderID appearing with different data in other columns | created a column customerId_count calculated "COUNTIF(C2:C1276,C2)" gave counting for orderID column with count. deleted the rows in sql for count above 1 keeping the only 1 occurence | 69 duplicate OrderIDs resolved (kept one row per ID) |
 | **CustomerID** | Can legitimately repeat (one customer, multiple orders) | No changes | N/A — correct as-is |
 | **CustomerName** | Stray commas in names | Find & Replace `,` → `""` | 107 replacements |
 | **CustomerName** | Inconsistent casing, leading/trailing spaces | `=PROPER(TRIM(CustomerName))` | Standardized to Proper Case, trimmed |
